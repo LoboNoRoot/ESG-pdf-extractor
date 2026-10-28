@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <style>
+      .bg{fill:#f7f8fa}
+      .paper{fill:#ffffff;stroke:#d8dde6;stroke-width:2}
+      .grid{stroke:#e5e7eb;stroke-width:1}
+      .title{font-family:"Microsoft YaHei","SimSun",Arial,sans-serif;font-size:26px;font-weight:700;fill:#1f2937}
+      .text{font-family:"Microsoft YaHei","SimSun",Arial,sans-serif;font-size:18px;fill:#374151}
+      .small{font-family:"Microsoft YaHei","SimSun",Arial,sans-serif;font-size:15px;fill:#6b7280}
+      .label{font-family:"Microsoft YaHei","SimSun",Arial,sans-serif;font-size:15px;fill:#1f2937}
+      .blue{fill:#eef4ff;stroke:#2f6feb;stroke-width:2}
+      .line{stroke:#9ca3af;stroke-width:2;fill:none;marker-end:url(#arrow)}
+      .accent{stroke:#2f6feb;stroke-width:3;fill:none}
+      .metric{fill:#ffffff;stroke:#d8dde6;stroke-width:2}
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#9ca3af"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="620" rx="24"/>
+  <text class="title" x="60" y="60">PDF 页面快扫特征示意</text>
+  <text class="small" x="60" y="92">系统逐页读取文本层，计算页面价值分数，用于判断是否进入 MinerU 深度解析</text>
+
+  <rect class="paper" x="70" y="130" width="430" height="410" rx="12"/>
+  <text class="text" x="105" y="170">环境绩效指标表</text>
+  <line class="grid" x1="105" y1="205" x2="465" y2="205"/>
+  <line class="grid" x1="105" y1="250" x2="465" y2="250"/>
+  <line class="grid" x1="105" y1="295" x2="465" y2="295"/>
+  <line class="grid" x1="105" y1="340" x2="465" y2="340"/>
+  <line class="grid" x1="105" y1="385" x2="465" y2="385"/>
+  <line class="grid" x1="105" y1="430" x2="465" y2="430"/>
+  <line class="grid" x1="105" y1="475" x2="465" y2="475"/>
+  <line class="grid" x1="210" y1="205" x2="210" y2="475"/>
+  <line class="grid" x1="315" y1="205" x2="315" y2="475"/>
+  <line class="grid" x1="390" y1="205" x2="390" y2="475"/>
+  <text class="label" x="122" y="233">指标</text>
+  <text class="label" x="232" y="233">单位</text>
+  <text class="label" x="330" y="233">2023</text>
+  <text class="label" x="405" y="233">2024</text>
+  <text class="small" x="122" y="278">温室气体排放</text>
+  <text class="small" x="224" y="278">吨 CO2e</text>
+  <text class="small" x="332" y="278">12500</text>
+  <text class="small" x="407" y="278">11840</text>
+  <text class="small" x="122" y="323">综合能耗</text>
+  <text class="small" x="224" y="323">吨标煤</text>
+  <text class="small" x="337" y="323">830</text>
+  <text class="small" x="412" y="323">790</text>
+  <text class="small" x="122" y="368">用水量</text>
+  <text class="small" x="224" y="368">万吨</text>
+  <text class="small" x="337" y="368">42.6</text>
+  <text class="small" x="412" y="368">39.8</text>
+
+  <rect class="blue" x="112" y="258" width="92" height="34" rx="6"/>
+  <text class="small" x="120" y="281">ESG 关键词</text>
+  <rect class="blue" x="326" y="260" width="126" height="32" rx="6"/>
+  <text class="small" x="340" y="281">连续数值</text>
+  <rect class="blue" x="217" y="307" width="80" height="31" rx="6"/>
+  <text class="small" x="230" y="328">单位</text>
+
+  <path class="line" d="M500 335 L590 335"/>
+
+  <rect class="metric" x="610" y="135" width="220" height="86" rx="12"/>
+  <text class="text" x="642" y="170">文本长度</text>
+  <text class="small" x="642" y="198">判断文本层是否完整</text>
+  <rect class="metric" x="875" y="135" width="220" height="86" rx="12"/>
+  <text class="text" x="905" y="170">关键词命中</text>
+  <text class="small" x="905" y="198">判断页面主题相关性</text>
+
+  <rect class="metric" x="610" y="255" width="220" height="86" rx="12"/>
+  <text class="text" x="642" y="290">数值密度</text>
+  <text class="small" x="642" y="318">识别指标表和绩效页</text>
+  <rect class="metric" x="875" y="255" width="220" height="86" rx="12"/>
+  <text class="text" x="905" y="290">表格线索</text>
+  <text class="small" x="905" y="318">识别行列结构和单位</text>
+
+  <rect class="metric" x="610" y="375" width="220" height="86" rx="12"/>
+  <text class="text" x="642" y="410">低文本页</text>
+  <text class="small" x="642" y="438">标记扫描或图片页面</text>
+  <rect class="blue" x="875" y="375" width="220" height="86" rx="12"/>
+  <text class="text" x="905" y="410">MinerU 分数</text>
+  <text class="small" x="905" y="438">生成重点页列表</text>
+
+  <path class="accent" d="M638 525 H1065"/>
+  <circle cx="638" cy="525" r="5" fill="#2f6feb"/>
+  <circle cx="1065" cy="525" r="5" fill="#2f6feb"/>
+  <text class="small" x="694" y="555">分数越高，页面越可能包含 ESG 指标证据</text>
+</svg>

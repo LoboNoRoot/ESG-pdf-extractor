@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="205mm" height="98mm" preserveAspectRatio="none" style="background-color: #FFFFFF; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif;">
+  
+  <style>
+    .title { font-size: 32px; font-weight: 700; fill: #0F172A; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    .subtitle { font-size: 18px; font-weight: 500; fill: #64748B; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    .column-title { font-size: 22px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    .column-sub { font-size: 14px; font-weight: 500; fill: #E2E8F0; text-anchor: middle; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    
+    .item-card { fill: #FFFFFF; stroke: #E2E8F0; stroke-width: 1.5; rx: 8px; }
+    .item-num { font-size: 12px; font-weight: 800; text-anchor: middle; dominant-baseline: central; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    .item-title { font-size: 12px; font-weight: 700; fill: #1E293B; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    .item-clause { font-size: 12px; font-weight: 600; text-anchor: end; font-family: 'Times New Roman', 'SimHei', '黑体', sans-serif; }
+    
+    .env-color { fill: #059669; }
+    .env-bg { fill: #ECFDF5; }
+    .env-border { stroke: #A7F3D0; }
+    .env-text { fill: #047857; }
+    
+    .soc-color { fill: #2563EB; }
+    .soc-bg { fill: #EFF6FF; }
+    .soc-border { stroke: #BFDBFE; }
+    .soc-text { fill: #1D4ED8; }
+    
+    .gov-color { fill: #D97706; }
+    .gov-bg { fill: #FEF3C7; }
+    .gov-border { stroke: #FDE68A; }
+    .gov-text { fill: #B45309; }
+  </style>
+
+  <!-- Slide Header -->
+  <g transform="translate(80, 65)">
+    <rect x="0" y="0" width="8" height="42" rx="4" fill="#059669" />
+    <text x="24" y="26" class="title">《上市公司可持续发展报告指引》议题索引分布图</text>
+    <text x="24" y="48" class="subtitle">涵盖环境、社会、可持续发展相关治理三大维度共 21 项核心议题与对应条款索引</text>
+  </g>
+
+  <!-- ==================== COLUMN 1: ENVIRONMENT (环境) ==================== -->
+  <g transform="translate(80, 150)">
+    <!-- Column Banner Header -->
+    <rect width="540" height="70" rx="12" class="env-color" />
+    <text x="270" y="32" class="column-title">环境 (Environmental)</text>
+    <text x="270" y="54" class="column-sub">议题 1 - 8  |  共 8 项核心议题</text>
+
+    <!-- Background Container -->
+    <rect y="80" width="540" height="770" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+
+    <!-- Items 1 to 8 -->
+    <!-- Item 1 -->
+    <g transform="translate(20, 100)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">01</text>
+      <text x="72" y="41" class="item-title">应对气候变化</text>
+      <rect x="360" y="22" width="124" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="422" y="40" class="item-clause env-text">第二十一条至第二十八条</text>
+    </g>
+
+    <!-- Item 2 -->
+    <g transform="translate(20, 185)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">02</text>
+      <text x="72" y="41" class="item-title">污染物排放</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十条</text>
+    </g>
+
+    <!-- Item 3 -->
+    <g transform="translate(20, 270)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">03</text>
+      <text x="72" y="41" class="item-title">废弃物处理</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十一条</text>
+    </g>
+
+    <!-- Item 4 -->
+    <g transform="translate(20, 355)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">04</text>
+      <text x="72" y="41" class="item-title">生态系统和生物多样性保护</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十二条</text>
+    </g>
+
+    <!-- Item 5 -->
+    <g transform="translate(20, 440)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">05</text>
+      <text x="72" y="41" class="item-title">环境合规管理</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十三条</text>
+    </g>
+
+    <!-- Item 6 -->
+    <g transform="translate(20, 525)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">06</text>
+      <text x="72" y="41" class="item-title">能源利用</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十五条</text>
+    </g>
+
+    <!-- Item 7 -->
+    <g transform="translate(20, 610)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">07</text>
+      <text x="72" y="41" class="item-title">水资源利用</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十六条</text>
+    </g>
+
+    <!-- Item 8 -->
+    <g transform="translate(20, 695)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="env-bg" />
+      <text x="36" y="36" class="item-num env-text">08</text>
+      <text x="72" y="41" class="item-title">循环经济</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="env-bg env-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause env-text">第三十七条</text>
+    </g>
+  </g>
+
+  <!-- ==================== COLUMN 2: SOCIAL (社会) ==================== -->
+  <g transform="translate(690, 150)">
+    <!-- Column Banner Header -->
+    <rect width="540" height="70" rx="12" class="soc-color" />
+    <text x="270" y="32" class="column-title">社会 (Social)</text>
+    <text x="270" y="54" class="column-sub">议题 9 - 17  |  共 9 项核心议题</text>
+
+    <!-- Background Container -->
+    <rect y="80" width="540" height="770" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+
+    <!-- Items 9 to 16 -->
+    <!-- Item 9 -->
+    <g transform="translate(20, 100)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">09</text>
+      <text x="72" y="41" class="item-title">乡村振兴</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第三十九条</text>
+    </g>
+
+    <!-- Item 10 -->
+    <g transform="translate(20, 185)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">10</text>
+      <text x="72" y="41" class="item-title">社会贡献</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十条</text>
+    </g>
+
+    <!-- Item 11 -->
+    <g transform="translate(20, 270)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">11</text>
+      <text x="72" y="41" class="item-title">创新驱动</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十二条</text>
+    </g>
+
+    <!-- Item 12 -->
+    <g transform="translate(20, 355)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">12</text>
+      <text x="72" y="41" class="item-title">科技伦理</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十三条</text>
+    </g>
+
+    <!-- Item 13 -->
+    <g transform="translate(20, 440)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">13</text>
+      <text x="72" y="41" class="item-title">供应链安全</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十五条</text>
+    </g>
+
+    <!-- Item 14 -->
+    <g transform="translate(20, 525)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">14</text>
+      <text x="72" y="41" class="item-title">平等对待中小企业</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十六条</text>
+    </g>
+
+    <!-- Item 15 -->
+    <g transform="translate(20, 610)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">15</text>
+      <text x="72" y="41" class="item-title">产品和服务安全与质量</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十七条</text>
+    </g>
+
+    <!-- Item 16 -->
+    <g transform="translate(20, 695)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">16</text>
+      <text x="72" y="41" class="item-title">数据安全与客户隐私保护</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第四十八条</text>
+    </g>
+
+    <!-- Item 17 -->
+    <g transform="translate(20, 780)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="soc-bg" />
+      <text x="36" y="36" class="item-num soc-text">17</text>
+      <text x="72" y="41" class="item-title">员工</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="soc-bg soc-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause soc-text">第五十条</text>
+    </g>
+  </g>
+
+  <!-- ==================== COLUMN 3: GOVERNANCE (可持续发展相关治理 - ORANGE THEME) ==================== -->
+  <g transform="translate(1300, 150)">
+    <!-- Column Banner Header -->
+    <rect width="540" height="70" rx="12" class="gov-color" />
+    <text x="270" y="27" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">可持续发展相关治理</text>
+    <text x="270" y="53" class="column-sub">Governance  |  议题 18 - 21  |  共 4 项</text>
+
+    <!-- Background Container -->
+    <rect y="80" width="540" height="770" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+
+    <!-- Items 18 to 21 -->
+    <!-- Item 18 -->
+    <g transform="translate(20, 100)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="gov-bg" />
+      <text x="36" y="36" class="item-num gov-text">18</text>
+      <text x="72" y="41" class="item-title">尽职调查</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="gov-bg gov-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause gov-text">第五十二条</text>
+    </g>
+
+    <!-- Item 19 -->
+    <g transform="translate(20, 185)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="gov-bg" />
+      <text x="36" y="36" class="item-num gov-text">19</text>
+      <text x="72" y="41" class="item-title">利益相关方沟通</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="gov-bg gov-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause gov-text">第五十三条</text>
+    </g>
+
+    <!-- Item 20 -->
+    <g transform="translate(20, 270)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="gov-bg" />
+      <text x="36" y="36" class="item-num gov-text">20</text>
+      <text x="72" y="41" class="item-title">反商业贿赂及反贪污</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="gov-bg gov-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause gov-text">第五十五条</text>
+    </g>
+
+    <!-- Item 21 -->
+    <g transform="translate(20, 355)">
+      <rect width="500" height="72" rx="10" class="item-card" />
+      <rect x="16" y="16" width="40" height="40" rx="8" class="gov-bg" />
+      <text x="36" y="36" class="item-num gov-text">21</text>
+      <text x="72" y="41" class="item-title">反不正当竞争</text>
+      <rect x="380" y="22" width="104" height="28" rx="14" class="gov-bg gov-border" stroke-width="1" />
+      <text x="432" y="40" class="item-clause gov-text">第五十六条</text>
+    </g>
+
+    <!-- Footer Summary Card with Pie Chart in Column 3 -->
+    <g transform="translate(20, 535)">
+      <rect width="500" height="232" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+      <text x="250" y="32" font-size="16" font-weight="700" fill="#0F172A" text-anchor="middle">指引议题分布占比总结 (共21项)</text>
+      
+      <!-- Donut Chart Graphics (cx=115, cy=130, R=50, r=22) -->
+      <g transform="translate(0, 0)">
+        <!-- Slice 1: Environment (38.1% - 8 items) -->
+        <path d="M 115 130 L 115 80 A 50 50 0 0 1 149.1 166.3 L 135.4 152.0 A 30 30 0 0 0 115 100 Z" fill="#059669" />
+        <!-- Slice 2: Social (42.9% - 9 items) -->
+        <path d="M 115 130 L 149.1 166.3 A 50 50 0 0 1 67.6 111.7 L 86.6 119.0 A 30 30 0 0 0 135.4 152.0 Z" fill="#2563EB" />
+        <!-- Slice 3: Governance (19.0% - 4 items) -->
+        <path d="M 115 130 L 67.6 111.7 A 50 50 0 0 1 115 80 L 115 100 A 30 30 0 0 0 86.6 119.0 Z" fill="#D97706" />
+        <!-- Center Hole -->
+        <circle cx="115" cy="130" r="24" fill="#FFFFFF" />
+        <text x="115" y="127" font-size="12" font-weight="800" fill="#0F172A" text-anchor="middle">21项</text>
+        <text x="115" y="142" font-size="12" font-weight="600" fill="#64748B" text-anchor="middle">总计</text>
+      </g>
+
+      <!-- Legend & Details on the Right -->
+      <g transform="translate(190, 60)">
+        <!-- Legend Item 1 -->
+        <circle cx="10" cy="10" r="6" fill="#059669" />
+        <text x="28" y="14" font-size="12" font-weight="700" fill="#1E293B">环境 (E)维度</text>
+        <text x="200" y="14" font-size="12" font-weight="600" fill="#059669" text-anchor="end">8 项 (38.1%)</text>
+        
+        <!-- Legend Item 2 -->
+        <circle cx="10" cy="50" r="6" fill="#2563EB" />
+        <text x="28" y="54" font-size="12" font-weight="700" fill="#1E293B">社会 (S)维度</text>
+        <text x="200" y="54" font-size="12" font-weight="600" fill="#2563EB" text-anchor="end">9 项 (42.9%)</text>
+        
+        <!-- Legend Item 3 -->
+        <circle cx="10" cy="90" r="6" fill="#D97706" />
+        <text x="28" y="94" font-size="12" font-weight="700" fill="#1E293B">治理 (G)维度</text>
+        <text x="200" y="94" font-size="12" font-weight="600" fill="#D97706" text-anchor="end">4 项 (19.0%)</text>
+        
+        <!-- Note line -->
+        <text x="10" y="132" font-size="11" font-weight="500" fill="#64748B">数据来源：沪深北交易所《上市公司可持续发展报告指引》</text>
+      </g>
+    </g>
+  </g>
+</svg>

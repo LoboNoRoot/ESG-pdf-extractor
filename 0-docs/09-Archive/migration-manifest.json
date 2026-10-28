@@ -1,0 +1,1768 @@
+{
+  "source_root": "C:\\Users\\Lenovo\\Desktop\\26.05数据要素",
+  "destination_root": "D:\\ESGMiner",
+  "files": [
+    {
+      "source": "2.1.3（1）高低价值页面分流处理-ChatGPT Image 2026年6月25日 21_09_08.ai",
+      "size": 2989398,
+      "sha256": "5d5e244a3df145dc32c59c410149a85758efde4a3852c4189f0379b514961175",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.1.3（1）高低价值页面分流处理-ChatGPT Image 2026年6月25日 21_09_08.ai"
+    },
+    {
+      "source": "2.1.3（1）高低价值页面分流处理-ChatGPT Image 2026年6月25日 21_09_08.png",
+      "size": 1200329,
+      "sha256": "7083c4b26dcbf262ec39a4e7ef613ecb84fdb03f85f9681303d568573c5b1fb3",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.1.3（1）高低价值页面分流处理-ChatGPT Image 2026年6月25日 21_09_08.png"
+    },
+    {
+      "source": "2.3指标体系.svg",
+      "size": 66134,
+      "sha256": "e859f68aba8a7f699f91b24ac4850f3f82b8c178fd88be1572c4ec215e9a54c1",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.3指标体系.svg"
+    },
+    {
+      "source": "2.4.1草稿-8.png",
+      "size": 33638,
+      "sha256": "4633f9192b0cca94417d57bfecc20e238efed9a0b7af6896728d0493be43a488",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.4.1草稿-8.png"
+    },
+    {
+      "source": "2.4.1草稿_1.svg",
+      "size": 180610,
+      "sha256": "12f2f7e4beda1dc60ea5f1e6af4533e707d81b11730ccaf2c4ac6b48dec506ad",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.4.1草稿_1.svg"
+    },
+    {
+      "source": "2.4.1页面扫描三维度7特征.ai",
+      "size": 359524,
+      "sha256": "a810aba22f5bb499be87bde72af5d2710d354d85a775c2165d1e9d3fe6d71cd2",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/2.4.1页面扫描三维度7特征.ai"
+    },
+    {
+      "source": "3.3.4上下文增强的大语言模型字段抽.ai",
+      "size": 2244584,
+      "sha256": "53a3512ee5888aff8eba108239e9958ef72843c4de93b5fbda8b37eac76efa17",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.3.4上下文增强的大语言模型字段抽.ai"
+    },
+    {
+      "source": "3.3.4抽取.svg",
+      "size": 68035,
+      "sha256": "3dff0d2b85c38634356b41bbd0da7c69e4c5805f2d03b0ef326e523b5c43d131",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.3.4抽取.svg"
+    },
+    {
+      "source": "3.4-1.svg",
+      "size": 11600,
+      "sha256": "d1841e890acbbdb3ee1aeb114100d3fffa40bdd05197a823950a7bfd8957b879",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4-1.svg"
+    },
+    {
+      "source": "3.4-2.svg",
+      "size": 8194,
+      "sha256": "21fdcc1fae964f8ee07abf41f48a06d39d53517cf9b0a0aff95318524c24af32",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4-2.svg"
+    },
+    {
+      "source": "3.4指标.opju",
+      "size": 29069,
+      "sha256": "3e9da3669bff95f3f39411cdee1d84bae9c361276bdb7d4e5e34ebb27217fdde",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4指标.opju"
+    },
+    {
+      "source": "3.4指标1.opju",
+      "size": 29819,
+      "sha256": "6d2773787e48d68d9719ae97e0fd5a945f304c49c4910fd511f83880d510e44a",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4指标1.opju"
+    },
+    {
+      "source": "3.4指标2.opju",
+      "size": 47667,
+      "sha256": "a04143425712b5293b151b40fa6c2da15244aa88b86fd6384596d20fcd7e202c",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4指标2.opju"
+    },
+    {
+      "source": "3.4指标评估.ai",
+      "size": 413247,
+      "sha256": "522e106787c9fb4339543fa6e20b319b2f1f4113433fcf320c76bdd867958321",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/3.4指标评估.ai"
+    },
+    {
+      "source": "esg_pipeline_technical_route.svg",
+      "size": 51074,
+      "sha256": "0afe5d3607983e54246166332513f1b9386558276566a3fda0f7c3271c8656df",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/esg_pipeline_technical_route.svg"
+    },
+    {
+      "source": "ESGMiner/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.rar",
+      "size": 4550629,
+      "sha256": "75372e3ccfff1ad1ef4906871b049f6b2fe99a6659dbf1c0023c106c70e33c8e",
+      "status": "copied",
+      "destination": "0-docs/09-Archive/source-packages/esgminer-original.rar"
+    },
+    {
+      "source": "ESGMiner/ESGMiner网址.txt",
+      "size": 21,
+      "sha256": "477766eb0949bee41bdefba19da6a4e4a0b08b9e8371ce1e67c484a2b8ad6b2c",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original-submission/ESGMiner网址.txt"
+    },
+    {
+      "source": "ESGMiner/技术文档-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf",
+      "size": 2331829,
+      "sha256": "3b02cfcf1a509d0bb9089bf41ea47acc7a55546e49daef87e5529de490343cf8",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original-submission/技术文档-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf"
+    },
+    {
+      "source": "ESGMiner/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 18128,
+      "sha256": "6db9774237436056665b8b29e65880378362ac3f3b4db4e2966f72394cf598b0",
+      "status": "copied",
+      "destination": "1-data/source-packages/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "ESGMiner/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.rar",
+      "size": 414,
+      "sha256": "ae85331bb4e75d87769b68c811b0349a8864b86af8313932282b1c6bb971c5cd",
+      "status": "copied",
+      "destination": "1-data/source-packages/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.rar"
+    },
+    {
+      "source": "ESGMiner/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.txt",
+      "size": 270,
+      "sha256": "a31bcc6755dd54356a277570f16bd324b367a69129118b1df53c9dd645979775",
+      "status": "copied",
+      "destination": "1-data/source-packages/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.txt"
+    },
+    {
+      "source": "ESGMiner/爬虫代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.zip",
+      "size": 5391,
+      "sha256": "9a81d28088e10eb6077b9792725d64bbe484421999ba9e8e593aa337dff7fccc",
+      "status": "copied",
+      "destination": "0-docs/09-Archive/source-packages/crawler-original.zip"
+    },
+    {
+      "source": "ESGMiner/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part1.rar",
+      "size": 52428800,
+      "sha256": "bd48133acc9dc078023e65f00a60232f4973ccb84f635b26592f3afb9a3db7a5",
+      "status": "copied",
+      "destination": "1-data/source-packages/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part1.rar"
+    },
+    {
+      "source": "ESGMiner/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part2.rar",
+      "size": 52428800,
+      "sha256": "f90e630eef82fa1e6d1cb9b85bb3df5e0d931a1854943abbefc44b76b5633b9e",
+      "status": "copied",
+      "destination": "1-data/source-packages/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part2.rar"
+    },
+    {
+      "source": "ESGMiner/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part3.rar",
+      "size": 52428800,
+      "sha256": "79d73c115ee0cf51338f7235f4863829af74b1d66934b50ee0568cf1d08aacee",
+      "status": "copied",
+      "destination": "1-data/source-packages/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part3.rar"
+    },
+    {
+      "source": "ESGMiner/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part4.rar",
+      "size": 52428800,
+      "sha256": "1b51ee8aa84af1deefac59d076996fa36b82707898a737892d55c1670c25e336",
+      "status": "copied",
+      "destination": "1-data/source-packages/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part4.rar"
+    },
+    {
+      "source": "ESGMiner/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part5.rar",
+      "size": 34702646,
+      "sha256": "f349d6eee2c123975592570752a2f32c40a6b198777f683fbe06301c21db99b7",
+      "status": "copied",
+      "destination": "1-data/source-packages/部分测试集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.part5.rar"
+    },
+    {
+      "source": "ESGMiner/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-2zp4hf.pdf",
+      "size": 2258896,
+      "sha256": "b92ea7a000fc18d8b106446acd9adc9741e43e9f125338aa893559580e278e98",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-2zp4hf.pdf"
+    },
+    {
+      "source": "ESGMiner/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 6009835,
+      "sha256": "3126c1900c4eb245ffbc8088ccb4c9add970718391635cadf57615d9e96297d2",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "ESGMiner/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf",
+      "size": 2031292,
+      "sha256": "e3b2ade376632be32a7a7b8085ec6ff2fdaf3b0fb5a4c049b2cc7f8edec437d2",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf"
+    },
+    {
+      "source": "ESG指标体系ChatGPT Image 2026年6月26日 16_59_54.png",
+      "size": 1495971,
+      "sha256": "d62853e714c0863be363c06d7b92b5eff047563e0b58a0f4e8796a89a193a871",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/ESG指标体系ChatGPT Image 2026年6月26日 16_59_54.png"
+    },
+    {
+      "source": "ESG论文第二章_解决方案.docx",
+      "size": 239808,
+      "sha256": "a7b628861bf60878d1852b95ee2b396664d1b5ab356d29aa0239df942a84c9c7",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/ESG论文第二章_解决方案.docx"
+    },
+    {
+      "source": "gsj技术文档.pdf",
+      "size": 530868,
+      "sha256": "1017723566cb7581a955a751aa5eb5430d178d8e11c88d725f47c9a75faf000f",
+      "status": "copied",
+      "destination": "8-reference/gsj技术文档.pdf"
+    },
+    {
+      "source": "gude-2026-08-11.log",
+      "size": 234,
+      "sha256": "e19c28741f9def595002e682891982ca26c2ad2fbdf96231cbbc2afef903a023",
+      "status": "excluded",
+      "reason": "Office lock or application log; original retained",
+      "destination": null
+    },
+    {
+      "source": "LLM灰区仲裁2.1.2.(3)-ChatGPT Image 2026年6月25日 20_21_34.png",
+      "size": 1197639,
+      "sha256": "6ba553ef68cfdd9d2be05609b917ac909a78abb1d7e0fdb1c85f04645f6d6074",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/LLM灰区仲裁2.1.2.(3)-ChatGPT Image 2026年6月25日 20_21_34.png"
+    },
+    {
+      "source": "ppt.pptx",
+      "size": 38116,
+      "sha256": "2de91b6cff5eefe60dd7d471c65688778ae97cf203999ed369afc66ece3b175a",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/ppt.pptx"
+    },
+    {
+      "source": "~$万卷：面向ESG报告的自适应布局分析与要素提取.docx",
+      "size": 162,
+      "sha256": "9160fb23a79d206d675f14c70dfdf264550f0a314a366a87114e03e73d825b4e",
+      "status": "excluded",
+      "reason": "Office lock or application log; original retained",
+      "destination": null
+    },
+    {
+      "source": "基于网络爬虫与 NLP 的基金发行公告结构.pdf",
+      "size": 1621116,
+      "sha256": "6f324871722e962f4e2f61a71bc051bb7c44ad0cd7f587d91d8e932adaf778a0",
+      "status": "copied",
+      "destination": "8-reference/基于网络爬虫与 NLP 的基金发行公告结构.pdf"
+    },
+    {
+      "source": "技术路线图06271929-1.png",
+      "size": 5069,
+      "sha256": "633d5e97abd9d39fbdc9c1ac26b0c5248b2bb6cfeaea05892148d63ac712f780",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/技术路线图06271929-1.png"
+    },
+    {
+      "source": "技术路线图06271929.svg",
+      "size": 14943,
+      "sha256": "6466caf0b569fce6eb15c5d0bca13657c9add6d3d3dae3ad217e350611de0b32",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/技术路线图06271929.svg"
+    },
+    {
+      "source": "技术路线图06272031.svg",
+      "size": 288412,
+      "sha256": "fa528eee620a1003df5f9441f312ae6f9aebe76d50b638e47c10da1ab7480d6f",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/技术路线图06272031.svg"
+    },
+    {
+      "source": "技术路线图06281603.svg",
+      "size": 131135,
+      "sha256": "7ab16ef5958e637484120bda1487250d744c8a9ee88bc8150e4b36945082584a",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/技术路线图06281603.svg"
+    },
+    {
+      "source": "数据要素报名材料/03dc1de239cdfd1a7191fdc0c2447a7c.png",
+      "size": 236676,
+      "sha256": "810b8d34147ec8ca757ee02b178b0df1acf5ca885a01b79f094d5a0932b99dfa",
+      "status": "copied",
+      "destination": "9-project-materials/registration/03dc1de239cdfd1a7191fdc0c2447a7c.png"
+    },
+    {
+      "source": "数据要素报名材料/320921196807105456 李路.pdf",
+      "size": 360836,
+      "sha256": "04bde8eec7ae867c4699e0c67b3040038c15b5ef51530730fe7062a1958ae3b0",
+      "status": "copied",
+      "destination": "9-project-materials/registration/320921196807105456 李路.pdf"
+    },
+    {
+      "source": "数据要素报名材料/3f36142b434ae7f7576b2be3f41fc86e.jpg",
+      "size": 341952,
+      "sha256": "932c069357c638461821ef0ae7a42c405c41198ea2219d6bba81b581cac36366",
+      "status": "copied",
+      "destination": "9-project-materials/registration/3f36142b434ae7f7576b2be3f41fc86e.jpg"
+    },
+    {
+      "source": "数据要素报名材料/bed10ccf42760134295f0db16ff269d8.jpg",
+      "size": 1204734,
+      "sha256": "49b31dd0bb42788acb54fd6fb27b4a14df61c1304af3765927c01d2521ffe5ec",
+      "status": "copied",
+      "destination": "9-project-materials/registration/bed10ccf42760134295f0db16ff269d8.jpg"
+    },
+    {
+      "source": "数据要素报名材料/ed8f5a73572afc1ff765fe7e0d2135e2.jpg",
+      "size": 812398,
+      "sha256": "edff40c4ed07a2ece601a3d956943cbc3d54f60cf0aec8c180c29fc3fc0f2cec",
+      "status": "copied",
+      "destination": "9-project-materials/registration/ed8f5a73572afc1ff765fe7e0d2135e2.jpg"
+    },
+    {
+      "source": "数据要素报名材料/f02c26fe9b2827054a7d40209dadf7d8.jpg",
+      "size": 474737,
+      "sha256": "5db5d616ecae348914805cf8d68a0287de776fd7d684f053734df8bbc22f068c",
+      "status": "copied",
+      "destination": "9-project-materials/registration/f02c26fe9b2827054a7d40209dadf7d8.jpg"
+    },
+    {
+      "source": "数据要素报名材料/智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队promax-承诺书.jpg",
+      "size": 392258,
+      "sha256": "d6ae06fcbf77e7d4f8b1322db1b2b34f7c31850237ecd625821a2535ce2015cc",
+      "status": "copied",
+      "destination": "9-project-materials/registration/智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队promax-承诺书.jpg"
+    },
+    {
+      "source": "数据要素报名材料/终版微调智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 258015,
+      "sha256": "357f844efb13067fa5572ba63da6b3272d07f52b1b2ca213548925ac453afee9",
+      "status": "copied",
+      "destination": "9-project-materials/registration/终版微调智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "数据要素报名材料/附件2：2026年大学生数据要素素质大赛参赛承诺书.docx",
+      "size": 15715,
+      "sha256": "0d0d7fe4a27884d8380f32507cc9738de991fbf66a68dbc5f3b36377e9da47d9",
+      "status": "copied",
+      "destination": "9-project-materials/registration/附件2：2026年大学生数据要素素质大赛参赛承诺书.docx"
+    },
+    {
+      "source": "数据要素报名材料/顾问身份证明.jpg",
+      "size": 149614,
+      "sha256": "931ca641d4db4e951c9f77a61a3942e5d157e3c174ce80b7d954c4e76225e1b6",
+      "status": "copied",
+      "destination": "9-project-materials/registration/顾问身份证明.jpg"
+    },
+    {
+      "source": "智析万卷：面向ESG报告的自适应布局分析与要素提取.docx",
+      "size": 3942656,
+      "sha256": "79de1a63a4b3c937935cfb55e939f9fb5232c4581c2d8108d26ec703a3f3cacb",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/智析万卷：面向ESG报告的自适应布局分析与要素提取.docx"
+    },
+    {
+      "source": "智析万卷：面向ESG报告的自适应布局分析与要素提取06271902.docx",
+      "size": 3444730,
+      "sha256": "f00722aeb6fc543d26e8376922f7615063dc36e0033c3cebd65fd71dc8c13f3b",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/智析万卷：面向ESG报告的自适应布局分析与要素提取06271902.docx"
+    },
+    {
+      "source": "智析万卷：面向ESG报告的自适应布局分析与要素提取06280946.docx",
+      "size": 4415133,
+      "sha256": "592ef68afdb2e0a2f5343f100c52efad8bd895c92307ad38c9431853b489f0f9",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/智析万卷：面向ESG报告的自适应布局分析与要素提取06280946.docx"
+    },
+    {
+      "source": "更改-智析万卷：面向ESG报告的自适应布局分析与要素提取06281834.docx",
+      "size": 5686457,
+      "sha256": "bc63d02892c76764c59b824798759780b20c0605e6a22953dff8b7c5a7c4349a",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/更改-智析万卷：面向ESG报告的自适应布局分析与要素提取06281834.docx"
+    },
+    {
+      "source": "更改-智析万卷：面向ESG报告的自适应布局分析与要素提取改3.4.docx",
+      "size": 5839376,
+      "sha256": "c999e8b1e309e51881b1534663a1dbb208b87c7686a95266bcb3b9be6c9770b5",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/更改-智析万卷：面向ESG报告的自适应布局分析与要素提取改3.4.docx"
+    },
+    {
+      "source": "最新版.docx",
+      "size": 6175169,
+      "sha256": "118247b8956c1a63a6e698c2a4074216fec5828dbc1817eb5c6ca8bb7888871d",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/最新版.docx"
+    },
+    {
+      "source": "最新版2.docx",
+      "size": 6176822,
+      "sha256": "d966f8cd5da38bf1b5eb66490f673497af10b99b813298135470c55d630e55bf",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/最新版2.docx"
+    },
+    {
+      "source": "校验pdf人工标注/002973_侨银股份_2024_侨银股份：2024年度环境、社会及公司治理（ESG）报告.pdf",
+      "size": 19470116,
+      "sha256": "993c1b2ec87b9e69c8d217c4964b988d5d59f3f6471ae7540d54f74f861df23f",
+      "status": "copied",
+      "destination": "1-data/annotations/002973_侨银股份_2024_侨银股份：2024年度环境、社会及公司治理（ESG）报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/002973_侨银股份_2024_侨银股份：2024年度环境、社会及公司治理（ESG）报告.xlsx",
+      "size": 13367,
+      "sha256": "fcd963274fd121e48aec9b2cfa072598c0ebdd78d847499b62b69e4639c75d06",
+      "status": "copied",
+      "destination": "1-data/annotations/002973_侨银股份_2024_侨银股份：2024年度环境、社会及公司治理（ESG）报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600072_中船科技_2024_中船科技：中船科技股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).pdf",
+      "size": 23949602,
+      "sha256": "844de5b5a9e28efc50d319dac6146caed45f61435f0c8bb63b476b853848ac46",
+      "status": "copied",
+      "destination": "1-data/annotations/600072_中船科技_2024_中船科技：中船科技股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600072_中船科技_2024_中船科技：中船科技股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).xlsx",
+      "size": 13221,
+      "sha256": "cc83a8ab4ef65b4db291acb0d3efb17f0ea340adcc265ce2e95157255aed6424",
+      "status": "copied",
+      "destination": "1-data/annotations/600072_中船科技_2024_中船科技：中船科技股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600099_林海股份_2024_林海股份：林海股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).pdf",
+      "size": 22864303,
+      "sha256": "1b6648c928843dde88a00efce71b677d9d8c87508dc5bce848318da508d76224",
+      "status": "copied",
+      "destination": "1-data/annotations/600099_林海股份_2024_林海股份：林海股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600099_林海股份_2024_林海股份：林海股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).xlsx",
+      "size": 14137,
+      "sha256": "7461fa7b6cebe1a92a6d4b0d18b832e5df8cc6340aea66c4f79d19ed9aa0883b",
+      "status": "copied",
+      "destination": "1-data/annotations/600099_林海股份_2024_林海股份：林海股份有限公司2024年度环境、社会及公司治理（ESG）报告(1).xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600206_有研新材_2024_有研新材：有研新材料股份有限公司2024年度环境、社会及治理（ESG）报告(1).pdf",
+      "size": 36247736,
+      "sha256": "2bf299774f2b90935e07495eed471270877ffc864eda9d969219cf4b8678c5b8",
+      "status": "copied",
+      "destination": "1-data/annotations/600206_有研新材_2024_有研新材：有研新材料股份有限公司2024年度环境、社会及治理（ESG）报告(1).pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600206_有研新材_2024_有研新材：有研新材料股份有限公司2024年度环境、社会及治理（ESG）报告(1).xlsx",
+      "size": 14630,
+      "sha256": "6da627ddfa58332763ee681249cd7c03d13665ca23aeec856fa9bcb53dd04bed",
+      "status": "copied",
+      "destination": "1-data/annotations/600206_有研新材_2024_有研新材：有研新材料股份有限公司2024年度环境、社会及治理（ESG）报告(1).xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600366_宁波韵升_2024_宁波韵升：宁波韵升2024年度环境、社会及治理（ESG）报告.pdf",
+      "size": 37605749,
+      "sha256": "fd021ecb565a9253a1437b27ce1fa53279a31acabc94f83f700b7ac96b11f06d",
+      "status": "copied",
+      "destination": "1-data/annotations/600366_宁波韵升_2024_宁波韵升：宁波韵升2024年度环境、社会及治理（ESG）报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600366_宁波韵升_2024_宁波韵升：宁波韵升2024年度环境、社会及治理（ESG）报告.xlsx",
+      "size": 14117,
+      "sha256": "a2cda7b5781b1841fc8e8b2bd762c3568f405f2cc890abf8498703fb880d48cf",
+      "status": "copied",
+      "destination": "1-data/annotations/600366_宁波韵升_2024_宁波韵升：宁波韵升2024年度环境、社会及治理（ESG）报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600521_华海药业_2024_华海药业：浙江华海药业股份有限公司2024年度企业社会责任报告.pdf",
+      "size": 39807934,
+      "sha256": "9ff5daa1b46ed91d196f86ecf68831e372bc55620f47012f939921a9303b994b",
+      "status": "copied",
+      "destination": "1-data/annotations/600521_华海药业_2024_华海药业：浙江华海药业股份有限公司2024年度企业社会责任报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600521_华海药业_2024_华海药业：浙江华海药业股份有限公司2024年度企业社会责任报告.xlsx",
+      "size": 13564,
+      "sha256": "07b7d4947b8b2298cc673cbc5630c5f7e613f7b2eb7d4ecdbbc21bab22539820",
+      "status": "copied",
+      "destination": "1-data/annotations/600521_华海药业_2024_华海药业：浙江华海药业股份有限公司2024年度企业社会责任报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600587_新华医疗_2024_新华医疗：新华医疗2024年度ESG报告(1).pdf",
+      "size": 25518252,
+      "sha256": "f6fdc6683985e5b932b2dc879b6e4e90f9cc41a44cf067cf03527b6ccb55e5fe",
+      "status": "copied",
+      "destination": "1-data/annotations/600587_新华医疗_2024_新华医疗：新华医疗2024年度ESG报告(1).pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600587_新华医疗_2024_新华医疗：新华医疗2024年度ESG报告(1).xlsx",
+      "size": 13598,
+      "sha256": "e3e9be3306d1e1b24ad7a078fe9c21a4754ae166ec83ba91a423b134d4c79021",
+      "status": "copied",
+      "destination": "1-data/annotations/600587_新华医疗_2024_新华医疗：新华医疗2024年度ESG报告(1).xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600713_南京医药_2024_南京医药：南京医药2024年环境、社会和公司治理（ESG）报告.pdf",
+      "size": 21082719,
+      "sha256": "95f7ae7fed848b5c99671314a69c0badd33cdf9d740465b54eb6abff8f7ef932",
+      "status": "copied",
+      "destination": "1-data/annotations/600713_南京医药_2024_南京医药：南京医药2024年环境、社会和公司治理（ESG）报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600713_南京医药_2024_南京医药：南京医药2024年环境、社会和公司治理（ESG）报告.xlsx",
+      "size": 13085,
+      "sha256": "1803ffb59cde89c90bdd0d952e530751eb00e2dd3966fb53761e0ec5253ed4e0",
+      "status": "copied",
+      "destination": "1-data/annotations/600713_南京医药_2024_南京医药：南京医药2024年环境、社会和公司治理（ESG）报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600789_鲁抗医药_2024_鲁抗医药：鲁抗医药2024年环境、社会和治理（ESG）报告.pdf",
+      "size": 9340634,
+      "sha256": "833091b4fd02834e4f940647fc483026a36b117e3ee39ffc1c0e49a840372d8e",
+      "status": "copied",
+      "destination": "1-data/annotations/600789_鲁抗医药_2024_鲁抗医药：鲁抗医药2024年环境、社会和治理（ESG）报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600789_鲁抗医药_2024_鲁抗医药：鲁抗医药2024年环境、社会和治理（ESG）报告.xlsx",
+      "size": 13732,
+      "sha256": "c4bc31975f690f40bffdbe2b89909a4efc1bbb8cbea543cf51657f27641d5312",
+      "status": "copied",
+      "destination": "1-data/annotations/600789_鲁抗医药_2024_鲁抗医药：鲁抗医药2024年环境、社会和治理（ESG）报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600861_北京人力_2024_北京人力_北京人力2024可持续发展_ESG_报告.pdf",
+      "size": 46236322,
+      "sha256": "e3d3b1976a5ce3829c73fc2ba9923d31d940fa268832bef2c1a9bd6a11b384d0",
+      "status": "copied",
+      "destination": "1-data/annotations/600861_北京人力_2024_北京人力_北京人力2024可持续发展_ESG_报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600861_北京人力_2024_北京人力_北京人力2024可持续发展_ESG_报告.xlsx",
+      "size": 12851,
+      "sha256": "5566d2ef5896783ec31e191be07408f279f01cc0b1ceee8ed7fbb478b85befd5",
+      "status": "copied",
+      "destination": "1-data/annotations/600861_北京人力_2024_北京人力_北京人力2024可持续发展_ESG_报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600916_中国黄金_2024_中国黄金：中国黄金集团黄金珠宝股份有限公司2024环境、社会及管治(ESG)报告.pdf",
+      "size": 10020959,
+      "sha256": "a2c0b8dafbb4d8eaa1c6721790213f837b542117275c5b358fe9756962596f3e",
+      "status": "copied",
+      "destination": "1-data/annotations/600916_中国黄金_2024_中国黄金：中国黄金集团黄金珠宝股份有限公司2024环境、社会及管治(ESG)报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600916_中国黄金_2024_中国黄金：中国黄金集团黄金珠宝股份有限公司2024环境、社会及管治(ESG)报告.xlsx",
+      "size": 13088,
+      "sha256": "44d7ddf4e37735095e4562709e14c7cfd0a752bc130a329b7af99b65b6867e33",
+      "status": "copied",
+      "destination": "1-data/annotations/600916_中国黄金_2024_中国黄金：中国黄金集团黄金珠宝股份有限公司2024环境、社会及管治(ESG)报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/600928_西安银行_2024_西安银行：西安银行股份有限公司2024年社会责任(ESG)报告.pdf",
+      "size": 31300002,
+      "sha256": "95ca4f951e6cace105fb4974dc382e37017a72ccb381347c1cc0af59d56b62ed",
+      "status": "copied",
+      "destination": "1-data/annotations/600928_西安银行_2024_西安银行：西安银行股份有限公司2024年社会责任(ESG)报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/600928_西安银行_2024_西安银行：西安银行股份有限公司2024年社会责任(ESG)报告.xlsx",
+      "size": 12911,
+      "sha256": "eeb3812422eff3061d13ba6a2c8957dddb169c30ffed0eb00c25c3887159c8ad",
+      "status": "copied",
+      "destination": "1-data/annotations/600928_西安银行_2024_西安银行：西安银行股份有限公司2024年社会责任(ESG)报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/601106_中国一重_2024_中国一重：中国第一重型机械股份公司2024年度ESG报告.pdf",
+      "size": 12516088,
+      "sha256": "5ac2dded49c53013cb5eb5437be3f54245a3e645b7a69f148eefea401a6ab04c",
+      "status": "copied",
+      "destination": "1-data/annotations/601106_中国一重_2024_中国一重：中国第一重型机械股份公司2024年度ESG报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/601106_中国一重_2024_中国一重：中国第一重型机械股份公司2024年度ESG报告.xlsx",
+      "size": 13475,
+      "sha256": "046aa7c95c134196eb6a2d51733ee4e446bc0344a2b70f3a62c573e4e294f1f1",
+      "status": "copied",
+      "destination": "1-data/annotations/601106_中国一重_2024_中国一重：中国第一重型机械股份公司2024年度ESG报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/603079_圣达生物_2024_圣达生物：浙江圣达生物药业股份有限公司2025年度环境、社会及公司治理（ESG）报告.pdf",
+      "size": 16573714,
+      "sha256": "ad0448f455a5865188c8edd38e6dd604cac995be413d17f4b54bf5a9bbc657a1",
+      "status": "copied",
+      "destination": "1-data/annotations/603079_圣达生物_2024_圣达生物：浙江圣达生物药业股份有限公司2025年度环境、社会及公司治理（ESG）报告.pdf"
+    },
+    {
+      "source": "校验pdf人工标注/603079_圣达生物_2024_圣达生物：浙江圣达生物药业股份有限公司2025年度环境、社会及公司治理（ESG）报告.xlsx",
+      "size": 13189,
+      "sha256": "3d57f80ffa1e03c990bfd6713ae4a891028b788e0c3bab6030638230e13a216e",
+      "status": "copied",
+      "destination": "1-data/annotations/603079_圣达生物_2024_圣达生物：浙江圣达生物药业股份有限公司2025年度环境、社会及公司治理（ESG）报告.xlsx"
+    },
+    {
+      "source": "校验pdf人工标注/quantitative_golden_set_template.xlsx",
+      "size": 19808,
+      "sha256": "59a7760497b894f49a79136d2df6cd31aac47476e11428b30adda35ffacd473a",
+      "status": "copied",
+      "destination": "1-data/annotations/quantitative_golden_set_template.xlsx"
+    },
+    {
+      "source": "框框.svg",
+      "size": 21799,
+      "sha256": "065c8f73b3cbac385c204c2f35710b8ef4eebeb8624856da00aa7cfb182a51a2",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/框框.svg"
+    },
+    {
+      "source": "框框素材.svg",
+      "size": 12774,
+      "sha256": "5a1c758be9f69ff99edbb928e3ad3646e8949d033231bdaa6ef0f0d931cd1c98",
+      "status": "copied",
+      "destination": "9-project-materials/figures/original/框框素材.svg"
+    },
+    {
+      "source": "省一改/1.1-2esg文档元素.eps",
+      "size": 2422690,
+      "sha256": "677206a5c181ed72f04b4635513e8717fade6095562ff5a250ab40413794ad3a",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1-2esg文档元素.eps"
+    },
+    {
+      "source": "省一改/1.1-2ok.svg",
+      "size": 100669,
+      "sha256": "391b97fb1644538211884839bb881ffac06ca1bac69a954edaed130a47845b27",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1-2ok.svg"
+    },
+    {
+      "source": "省一改/1.1不变绿也别掐头啊.png",
+      "size": 15911,
+      "sha256": "904409e1d47be361b85ffd872f8d3499cd91646211015b4a25c399dd16add706",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1不变绿也别掐头啊.png"
+    },
+    {
+      "source": "省一改/1.1不变绿也别掐头啊.svg",
+      "size": 56660,
+      "sha256": "131ed389ea28590bdb7052f4d2a7a8accf8952e06ab8fc8a900c412d39c4729c",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1不变绿也别掐头啊.svg"
+    },
+    {
+      "source": "省一改/1.1不可以再变深绿了.png",
+      "size": 15358,
+      "sha256": "a1d87ad1011b700e72668b3e89ed55d01a7d641424b6b1a40a70b8733a60b964",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1不可以再变深绿了.png"
+    },
+    {
+      "source": "省一改/1.1不可以再变深绿了.svg",
+      "size": 56469,
+      "sha256": "c11cd3f9567b58fa3a0c19738e461d7c374220e50453e7e3f566f08afeebd945",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1不可以再变深绿了.svg"
+    },
+    {
+      "source": "省一改/1.1加透明底适配ppt.png",
+      "size": 20369,
+      "sha256": "7587ba9ff8516fe26047b112cbc55f4d7bc55215c93fd1ec98d3030247431d5d",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1加透明底适配ppt.png"
+    },
+    {
+      "source": "省一改/1.1加透明底适配ppt.svg",
+      "size": 56686,
+      "sha256": "71a43ebe4d8b30974a62f7cb028b50b3ea360f9bc3e5bce5790013f4ee8d7b88",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1加透明底适配ppt.svg"
+    },
+    {
+      "source": "省一改/1.1加透明底适配ppt_1.png",
+      "size": 20114,
+      "sha256": "4cc469bf6368003d4650e951fbc445374d184ffd3fb1e2383d7c7dc9c5d915a4",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1加透明底适配ppt_1.png"
+    },
+    {
+      "source": "省一改/1.1加透明底适配ppt_1.svg",
+      "size": 56641,
+      "sha256": "da6c465972c4201a42a944bd6674358fe49811d316404b761cfdb8aeec6ac8f6",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1加透明底适配ppt_1.svg"
+    },
+    {
+      "source": "省一改/1.1改图原工程文件.eps",
+      "size": 880142,
+      "sha256": "07a801ed10d78ce17bf1669900062bb89b92fd864d13123d347f862d60e4638d",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1改图原工程文件.eps"
+    },
+    {
+      "source": "省一改/1.1改图原工程文件.svg",
+      "size": 26198,
+      "sha256": "75e3128d06649a09ceb4bbae24dc6bcb8e6af57e69e97b4a748b62d998efae49",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1改图原工程文件.svg"
+    },
+    {
+      "source": "省一改/1.1背景配图.svg",
+      "size": 315705,
+      "sha256": "403ff2015621d39af7f2fe7db9153e9f3af91f8307305604502fa054ad3bb8c9",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/1.1背景配图.svg"
+    },
+    {
+      "source": "省一改/3.3.4抽取改.svg",
+      "size": 72205,
+      "sha256": "edccda0e5200d08925d11c0aaaf4ce493d7feef850971ecf43c60fed2389b04b",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/3.3.4抽取改.svg"
+    },
+    {
+      "source": "省一改/4.1系统首页.eps",
+      "size": 2609402,
+      "sha256": "f8aafea9502d3e4e160faaad9c39dbf3af9c7e250563f902b3738da48a40da89",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/4.1系统首页.eps"
+    },
+    {
+      "source": "省一改/4.1系统首页.png",
+      "size": 105488,
+      "sha256": "a51c13ed10fb1407bf5ea17b7a4b656bd0805f0ab2c0630d4ba0fe770aa0bdae",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/4.1系统首页.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/configs/.env.example",
+      "size": 1401,
+      "sha256": "b818bb1c191696a0cf23c15ffcae1a8737c6590b2644403f36584d9e34535a90",
+      "status": "copied",
+      "destination": "2-esg-miner/configs/.env.example"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/configs/schema/a_share_v5.py",
+      "size": 19452,
+      "sha256": "b441a60ece7a6a2bc3892bb9b65ccf2533a8c0856ce2d7bac534d112671fca25",
+      "status": "copied",
+      "destination": "2-esg-miner/configs/schema/a_share_v5.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docker-compose.yml",
+      "size": 820,
+      "sha256": "28df6447dd45e0cda95f733f97b620e66c4f69df0f193abfd5d4796f24244464",
+      "status": "copied",
+      "destination": "2-esg-miner/docker-compose.yml"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/Dockerfile",
+      "size": 1194,
+      "sha256": "a91b6a40698097a5522f5fe7d39f7f9649dce1c92d38a4d80e184a748d395c6e",
+      "status": "copied",
+      "destination": "2-esg-miner/Dockerfile"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/abnormal_input_test_report.md",
+      "size": 1654,
+      "sha256": "28fa54f9e03f48bd04925aca2d9d9e0cb6c61c64e6088aa7b789b715a71ebfc4",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/abnormal_input_test_report.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/backend_architecture.md",
+      "size": 5146,
+      "sha256": "597cd85dc378a274d53cf3d8015702ba7b4ac761198f7af43809a69ce1d22deb",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/backend_architecture.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/ECharts 企业横向对比截图.png",
+      "size": 38406,
+      "sha256": "4c8ec6a9b29d3723ec83d13d5a75081555c6a000d8c91c777c02c8c47b165d3f",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/ECharts 企业横向对比截图.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/ECharts 单企业趋势分析截图.png",
+      "size": 43328,
+      "sha256": "c06afc804797bea249ee0b00880abcbf543e1618206d1633f7b385cfe44d9a43",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/ECharts 单企业趋势分析截图.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/llm_structured_extraction_flow(2).pdf",
+      "size": 92160,
+      "sha256": "e7047bf78f72777aadffade3c026c45cd34177203cda13f73f4ca796a302ed5c",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/llm_structured_extraction_flow(2).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/llm_structured_extraction_flow.svg",
+      "size": 4192,
+      "sha256": "99bba5736ef45a7058de53c33144b009f781ea9f8c6cf098ce8608aa500750e2",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/llm_structured_extraction_flow.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/page_scan_feature_diagram.pdf",
+      "size": 44218,
+      "sha256": "b352269191717693e204d8a385c0a48c1412ef78f5e57df2f2fb93ecbbe6e257",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/page_scan_feature_diagram.pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/page_scan_feature_diagram.svg",
+      "size": 4852,
+      "sha256": "ca08ee2f9a933e9c63b6c78ea9e6089f270796eacea806af515e7d14b0281592",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/page_scan_feature_diagram.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/postgresql_er_diagram(1).pdf",
+      "size": 53852,
+      "sha256": "be90f1a5353dc321fc46abacc3f1190a2ca8309347bdfacd061641a122fe16d2",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/postgresql_er_diagram(1).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/postgresql_er_diagram.svg",
+      "size": 4253,
+      "sha256": "0dc233e75486ed94f66bb2b7c67e30f2c8501ed8060fe4524fb3a4e14a478713",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/postgresql_er_diagram.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/pymupdf_visual_layout_reorder(1).pdf",
+      "size": 85331,
+      "sha256": "d829f7e45225593ec066bff480d365968ac227d42feb0f81c2fd3c762230bf35",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/pymupdf_visual_layout_reorder(1).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/pymupdf_visual_layout_reorder.svg",
+      "size": 4043,
+      "sha256": "0fa4d8c82ecbd0e0b4c3b38abb7ff7d33f1bf0049e2754d92055b7426decbefe",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/pymupdf_visual_layout_reorder.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/React 前端页面结构图.png",
+      "size": 595899,
+      "sha256": "ee31e530300aa0505e2caa025421341a9b6feec5aaf6e406f531c060648a31dd",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/React 前端页面结构图.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/report_collection_flow.pdf",
+      "size": 45514,
+      "sha256": "7373b7c310d13eb63c49c540b831581d6ffb0d37162f526c1f433602e4186852",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/report_collection_flow.pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/report_collection_flow.svg",
+      "size": 3749,
+      "sha256": "681c267aeb9b285f6b2c25f8167caaab65586c6e5e06c83bb1d9bba454dd9679",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/report_collection_flow.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/schema_60_fields_sample.pdf",
+      "size": 51697,
+      "sha256": "5894c4f2b445d3be96d7931b0defa72a9fff4c78832ded1b228d374fe91f5413",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/schema_60_fields_sample.pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/selective_mineru_subset_flow(1).pdf",
+      "size": 80387,
+      "sha256": "c605f6567c51decc68d89b6c3fe9a5b48297761bf9386055d8073cb5831709d4",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/selective_mineru_subset_flow(1).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/selective_mineru_subset_flow.svg",
+      "size": 4426,
+      "sha256": "adda094a2b54706c84872df94034968d43239c863406c66eb3890f383faf21a2",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/selective_mineru_subset_flow.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/server_deployment_topology(3).pdf",
+      "size": 69488,
+      "sha256": "fd2284e6779c6781f593653f2a23eae4c77c33b9e32dc588e14ce3ad67457bfc",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/server_deployment_topology(3).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/server_deployment_topology.svg",
+      "size": 3808,
+      "sha256": "d3c82afeab67b2d8a669744d17d7bfa09510b4914f9cfa3bbda204abeb180398",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/server_deployment_topology.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/system_overall_flow(3).pdf",
+      "size": 97012,
+      "sha256": "92600964419e6a9ebb6b22606d0313e8c6ea15027f11d02e005ba1fa602b052a",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/system_overall_flow(3).pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/system_overall_flow.svg",
+      "size": 5669,
+      "sha256": "57fdc6c2a2f34850ad7f7ee0471721575ce1a839c8808f4e8ddaee8a26252699",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/system_overall_flow.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/figures/背景图.png",
+      "size": 806395,
+      "sha256": "af87f4872250f2dfdcc08ab9803984d5c1e4419f7625e0b00d452649f232102a",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/figures/背景图.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/pdf_indicator_extraction_plain_explainer.md",
+      "size": 15852,
+      "sha256": "342736a5596e353d1b123cbdcd8ccd4cc8281aa4e16b4b8f38fecde97140e429",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/pdf_indicator_extraction_plain_explainer.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/schema_60_explainer.md",
+      "size": 12304,
+      "sha256": "e83bdc1300cb72fcbc0fbbb206a276f076aeff5cffada59597aff007536ce8d4",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/schema_60_explainer.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/technical_document_draft.md",
+      "size": 34416,
+      "sha256": "10503f4e18161c4dfd57af2b8ea1391430aeb722aec8f0c3aeb8797b90babc35",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/technical_document_draft.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/technical_manual.pdf",
+      "size": 2331829,
+      "sha256": "3b02cfcf1a509d0bb9089bf41ea47acc7a55546e49daef87e5529de490343cf8",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/technical_manual.pdf"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/docs/technical_manual.tex",
+      "size": 52095,
+      "sha256": "204e820fe44564007777b43305e524af22d948fcb690dd21642b831a150bf436",
+      "status": "copied",
+      "destination": "2-esg-miner/docs/technical_manual.tex"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend/esg-miner-draft.html",
+      "size": 13595,
+      "sha256": "baf891d6dd53493e5c36df330af4e384f704c0570a26ec86be11be654c900b21",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend/esg-miner-draft.html"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend/index.html",
+      "size": 25072,
+      "sha256": "c1d27b7f38ee1d8099ff440cddc55cbc35e1bdd868004a27bddb251fe0116a7a",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend/index.html"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/eslint.config.js",
+      "size": 965,
+      "sha256": "2db9d6e37f83b21636a608cf533e5c0eecb3ac83eacebb2a57a199c13f22e53d",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/eslint.config.js"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/index.html",
+      "size": 374,
+      "sha256": "daede693c4cd0a09f1d831a51d52598e514eab9ad8b80605ea6f6cf5758c2084",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/index.html"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/package-lock.json",
+      "size": 98094,
+      "sha256": "82acab0c03c67f01c17a4d99d2eb23a170182fa9a438a81c21082f24bad3f976",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/package-lock.json"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/package.json",
+      "size": 790,
+      "sha256": "1c92dda2defefc75f273098aec92a832c0165586d593236e6b5e9fdf8098dd6e",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/package.json"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/public/favicon.svg",
+      "size": 9522,
+      "sha256": "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/public/favicon.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/public/icons.svg",
+      "size": 5031,
+      "sha256": "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/public/icons.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/README.md",
+      "size": 1027,
+      "sha256": "a460b4dc7e6392e76aa54d844c9261b8db0adb7f967ba8300526456f1dcf5fb4",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/README.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/App.css",
+      "size": 30091,
+      "sha256": "98bb80307f086a2bc809e4b17ae5117f37bc1b39a2c39662d9da4eae18c2f50d",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/App.css"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/App.tsx",
+      "size": 75888,
+      "sha256": "d7f1aeae04447023cf22b164dc66bd29aef854d4a4e4e3a7caf95b83118dc9ac",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/App.tsx"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/assets/hero.png",
+      "size": 13057,
+      "sha256": "881ffbcaafc212e49addad08846a5b82761355fa20624253af3477ba33262c5c",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/assets/hero.png"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/assets/react.svg",
+      "size": 4126,
+      "sha256": "35ef61ed53b323ae94a16a8ec659b3d0af3880698791133f23b084085ab1c2e5",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/assets/react.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/assets/vite.svg",
+      "size": 8709,
+      "sha256": "5be21acd42eb7b896e517f4e0f0f11eb5c5d9e54fbbcebe9453f033008fcca6f",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/assets/vite.svg"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/index.css",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/index.css"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/main.tsx",
+      "size": 236,
+      "sha256": "eaa1c2131830c5b9120cce7bda892edec8ba346a7d6a9ef7948a59f3ac1e6f9c",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/main.tsx"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/src/vite-env.d.ts",
+      "size": 39,
+      "sha256": "424faf9241dd699dda995b367ed36665732da1e6ec1f33b2fd40394488ecac92",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/src/vite-env.d.ts"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/tsconfig.json",
+      "size": 548,
+      "sha256": "8fa7705f43c4cd96071fdef3a707eaf599d7af04f82950cb5f876eef3187d9dc",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/tsconfig.json"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/frontend-react/vite.config.js",
+      "size": 746,
+      "sha256": "807edf6fd19dd326d76cad9a4b5d8cea1308c4dda327263ee9a81a56e0deaaa4",
+      "status": "copied",
+      "destination": "2-esg-miner/frontend-react/vite.config.js"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/PACKAGE_NOTES.md",
+      "size": 705,
+      "sha256": "5853159c2cb62cf2edb0a55e2bdd0a0e92b857cc33e7d3f1cac45745ee9ea29b",
+      "status": "copied",
+      "destination": "2-esg-miner/PACKAGE_NOTES.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/pyproject.toml",
+      "size": 538,
+      "sha256": "2a41cf1d2581e85594e31f945f4cb13315e74f2193b920b2b9842e538c108600",
+      "status": "copied",
+      "destination": "2-esg-miner/pyproject.toml"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/README.md",
+      "size": 12511,
+      "sha256": "beade4edeb30e27994fb7b55947e878326d142f62df9a2336efc4dcebef20787",
+      "status": "copied",
+      "destination": "2-esg-miner/README.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/requirements-mineru.txt",
+      "size": 3008,
+      "sha256": "13bf63354fbe60a8e90267559aa5f375f6e645fcef48ee477e53fcac084ba498",
+      "status": "copied",
+      "destination": "2-esg-miner/requirements-mineru.txt"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/scripts/collect_a_share_esg_reports.py",
+      "size": 8369,
+      "sha256": "2b3fdd5c5947808a5c0e87291362147362ac3b2402250fc5da1d2044c18d4433",
+      "status": "copied",
+      "destination": "2-esg-miner/scripts/collect_a_share_esg_reports.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/scripts/collect_a_share_esg_reports_README.md",
+      "size": 4699,
+      "sha256": "b03a80f186a5d1c4727d252ca9b69da74c4ea92affd8e5872b3053906611505f",
+      "status": "copied",
+      "destination": "2-esg-miner/scripts/collect_a_share_esg_reports_README.md"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/scripts/preprocess_esg_pdfs.py",
+      "size": 2467,
+      "sha256": "103f845902e4d43b4162e144e19dbbde725570f4a4639487e5f753f0fcbbf5f5",
+      "status": "copied",
+      "destination": "2-esg-miner/scripts/preprocess_esg_pdfs.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/__init__.py",
+      "size": 70,
+      "sha256": "970b6591c8f2073c96727ebf141b3ccddf8686cbe910a5e3e29b1f74dd1759ea",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/__init__.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/api.py",
+      "size": 27456,
+      "sha256": "df5e1671a645bd740a0e862ed53735cbe4aa56a7ecc0a61405223bd241abd7c3",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/api.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/chunks.py",
+      "size": 4205,
+      "sha256": "589470c953e7cd6da9186ab594778b1cd43c840448ef55b4891675584232c9b7",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/chunks.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/cli.py",
+      "size": 4979,
+      "sha256": "7d4cab46812141c34db1e89e90389909d99d1d279d0610852e46d3c23fa12957",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/cli.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/config.py",
+      "size": 4720,
+      "sha256": "657c79d4b71585941e443ccbe219f4a0ed10bf8bc9c34a0598e332a8d9bcd3e6",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/config.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/dataset.py",
+      "size": 5700,
+      "sha256": "dcfb70c516021020731174fa248407723288df92faba41f0f24d12392693da63",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/dataset.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/evaluation.py",
+      "size": 27343,
+      "sha256": "be625c20e334dd74871de3d6a859f7dbfdbfa5b2b616cdf0f494df40d633b5d0",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/evaluation.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/extractor.py",
+      "size": 14856,
+      "sha256": "beef8993a905b5030c3ede22dd9ab2b769d200cfee9000cfd16ca3278935ff23",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/extractor.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/io_utils.py",
+      "size": 382,
+      "sha256": "0c3a05995550ea2f756e573a6c5b92246b43d5901920317de5e4b9f367c90af2",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/io_utils.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/job_store.py",
+      "size": 28840,
+      "sha256": "d0770f6c9509644fb466c8757b18a4bedc0e8bc9a7c4f965d16599fc0791d059",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/job_store.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/llm_client.py",
+      "size": 4425,
+      "sha256": "d6cbb1ce47517fc271d49c803649281b100f5acd38e515ad77a38d9baac6019b",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/llm_client.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/mineru_page_judge.py",
+      "size": 7229,
+      "sha256": "a62b520dccb074a54fb075a2f7ce3df7862a90786b370bfb78e2460ea2a6cb19",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/mineru_page_judge.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/mineru_runner.py",
+      "size": 4722,
+      "sha256": "fc3904a3c1b532630912e91ed9b9a219dee90e19a4178c508ed4dd649128c4f6",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/mineru_runner.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/page_scan.py",
+      "size": 3172,
+      "sha256": "07c71de7056efdf3b53d903f865e901eb9b5f78681cc47888c861b46fe262e30",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/page_scan.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/parse_plan.py",
+      "size": 3645,
+      "sha256": "56c0ac780ad624582fc94f35b40ca229e30707f0e930498685192b0b878a5bcb",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/parse_plan.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/pipeline.py",
+      "size": 6621,
+      "sha256": "021721fb4829769cd9915b033d4e9c1e7a16a0505e508d8755b3da255171fbbb",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/pipeline.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/quality.py",
+      "size": 12235,
+      "sha256": "f7f1cfd132021261b12f7b60155d8d0a3c711ca94dbb302304eb64f605203adc",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/quality.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/report_filter.py",
+      "size": 2817,
+      "sha256": "c4bfa985e6b01c9c61b4333a4dc7d49d47420344e65583c4724186ae51375e92",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/report_filter.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/retriever.py",
+      "size": 15866,
+      "sha256": "823936beac6ea8e9a5aabfa93f0d2e620a9e2e27d051a8d8a04fccf0adda48d0",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/retriever.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru/schema_loader.py",
+      "size": 1765,
+      "sha256": "9870cf3ad87f4ebaa04e8cbaa152eb877de0d74bbfc413e8f6d479783a492b86",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru/schema_loader.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru_agent.egg-info/dependency_links.txt",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru_agent.egg-info/dependency_links.txt"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru_agent.egg-info/PKG-INFO",
+      "size": 460,
+      "sha256": "96d2bc7f50cb019e2b0cb67f0ba191796849f430e711c742351ad688d3faaf95",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru_agent.egg-info/PKG-INFO"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru_agent.egg-info/requires.txt",
+      "size": 142,
+      "sha256": "93776ccafd2ec98473becd39b9f46aa3cca04a47cac4ec36def8d2a50341eb96",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru_agent.egg-info/requires.txt"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru_agent.egg-info/SOURCES.txt",
+      "size": 1206,
+      "sha256": "74a6cc7e606e027d13d9e1eca8834a26379593368d48d6aca4737897ba33a2bd",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru_agent.egg-info/SOURCES.txt"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/src/esg_selective_mineru_agent.egg-info/top_level.txt",
+      "size": 21,
+      "sha256": "b8b986527b3cfa1086d5a21d9aadddbf8196428c1425f4e4e4d63926cf97ce3c",
+      "status": "copied",
+      "destination": "2-esg-miner/src/esg_selective_mineru_agent.egg-info/top_level.txt"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_chunks.py",
+      "size": 979,
+      "sha256": "a75bdbe9f995be34149896616a8287f9aaac4263119ac4d1d4db2b732c29b8d7",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_chunks.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_llm_prompt.py",
+      "size": 803,
+      "sha256": "796a55120de07e9b7ccd7a2e838ec4f3afd4d90b6079b33e8ae2901889664927",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_llm_prompt.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_mineru_runner.py",
+      "size": 1516,
+      "sha256": "bf4879a7e086e2b8861353ccf7e672eedbe9cea4936f97d62fee79997ce596d3",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_mineru_runner.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_parse_plan.py",
+      "size": 1925,
+      "sha256": "94249200b497e2445bc4556a82db40b407cc0d77d6f580c89c8dd9a8c374c124",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_parse_plan.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_report_filter.py",
+      "size": 507,
+      "sha256": "3deefe12f4b59326f7aa747d8fd65f59ef24b4d1098189b336a0f3b1bd62842d",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_report_filter.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_retriever.py",
+      "size": 3048,
+      "sha256": "7b0b41dd4e0c66b3c41265e449f5c380665b97e862b34dfdac5fe82a79f6dd6d",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_retriever.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_structure_fields.py",
+      "size": 2796,
+      "sha256": "d756394f25c4abf0fcbc04ced9a41e4bb7651973cf8ae46a934ac34b2755e53a",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_structure_fields.py"
+    },
+    {
+      "source": "省一改/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-75q7m8/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax/tests/test_year_alignment.py",
+      "size": 8737,
+      "sha256": "5968e8f7410654dc2101291e670f66c5039c8339464176ee4317c9a4b0aac636",
+      "status": "copied",
+      "destination": "2-esg-miner/tests/test_year_alignment.py"
+    },
+    {
+      "source": "省一改/ESG项目竞赛评估与修改建议.md",
+      "size": 13858,
+      "sha256": "ae61ef9a3288ac536d4f4c3b839bbae17df2168a9a854a1d8f6f16467d44346b",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/ESG项目竞赛评估与修改建议.md"
+    },
+    {
+      "source": "省一改/gemini-svg (2)-排版优化版.svg",
+      "size": 17506,
+      "sha256": "70b5ea5d4ffa1e8119ef9cac0528ec1300d9723a64ccda59a227092be67126f7",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/gemini-svg (2)-排版优化版.svg"
+    },
+    {
+      "source": "省一改/gemini-svg (2)-重新排版.svg",
+      "size": 21503,
+      "sha256": "0287b658b02fbad1c92bf08c0d3b425f2f2f76d5826e57e8599d08c8f2dbdb1a",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/gemini-svg (2)-重新排版.svg"
+    },
+    {
+      "source": "省一改/gemini-svg-layout-final-3x.svg",
+      "size": 14777,
+      "sha256": "57b63ba702bca0286ed7f99da4e3d6ce719d4d2dee0b1ac77c7cf20044774399",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/gemini-svg-layout-final-3x.svg"
+    },
+    {
+      "source": "省一改/gemini-svg-layout-final.svg",
+      "size": 14574,
+      "sha256": "7408d4190ea89227cfa4e2f3edbd276f6617e4b27394ab647fed1d2bffce3339",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/gemini-svg-layout-final.svg"
+    },
+    {
+      "source": "省一改/gude-2026-09-15.log",
+      "size": 468,
+      "sha256": "9c026668eb377bf43640135ae2eb1b94bce4e687484136844e57f91bf89db6c0",
+      "status": "excluded",
+      "reason": "Office lock or application log; original retained",
+      "destination": null
+    },
+    {
+      "source": "省一改/tmp/embed_svg_flow.py",
+      "size": 7761,
+      "sha256": "17dc05d8de8075b3f7523b6262fced2c4807b028af6c10f808990075d2a4299c",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/embed_svg_flow.py"
+    },
+    {
+      "source": "省一改/tmp/export_word.ps1",
+      "size": 1161,
+      "sha256": "88c7aa2d0badd65ccaf214bd8b2f123611eeffd527949a34e55fbd031caed947",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/export_word.ps1"
+    },
+    {
+      "source": "省一改/tmp/fix_table_caption_numbers.py",
+      "size": 1012,
+      "sha256": "123c78e425c491f551425889552b2a3621c60efa7a1b27ae0f1555a9e3096b19",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/fix_table_caption_numbers.py"
+    },
+    {
+      "source": "省一改/tmp/inspect_details.py",
+      "size": 637,
+      "sha256": "0597c5301f530dc81b99d79484c4f5ada8043473b64e6eaf294fa316e658a9ae",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/inspect_details.py"
+    },
+    {
+      "source": "省一改/tmp/inspect_doc.py",
+      "size": 1442,
+      "sha256": "e05a1ff632f8a35cf86cf32d491eb9991b02214a851e75e3e82247021447dc79",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/inspect_doc.py"
+    },
+    {
+      "source": "省一改/tmp/inspect_fields.py",
+      "size": 456,
+      "sha256": "9cb352105eb67ec99eed70341824805205671934b7c68ec262b759a6f836f919",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/inspect_fields.py"
+    },
+    {
+      "source": "省一改/tmp/qa_language_revision.py",
+      "size": 3274,
+      "sha256": "2ff25c2d11179f317abaf44516b4466eb50e77a23a2e1ee04b9c32da1e466c19",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/qa_language_revision.py"
+    },
+    {
+      "source": "省一改/tmp/qa_report.py",
+      "size": 2687,
+      "sha256": "64e3bad5c7859c0cd933b2d868d4741ba0e12f8f686f27edf3d039f2b08e7d46",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/qa_report.py"
+    },
+    {
+      "source": "省一改/tmp/refresh_cached_fields.py",
+      "size": 2557,
+      "sha256": "e07423063b4a4825b33ac52c768675c68608e4ee49c4461d3e6b3e4143ee5f41",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/refresh_cached_fields.py"
+    },
+    {
+      "source": "省一改/tmp/render_svg.js",
+      "size": 652,
+      "sha256": "d2ec68df6b8bdf2293a4ba9b68c4063771ba943c6958baab53b7300865c1a9e1",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/render_svg.js"
+    },
+    {
+      "source": "省一改/tmp/report_assets/企业端到端交付闭环图.png",
+      "size": 112504,
+      "sha256": "d9581665b8cb37ba62c76ad290d59f7583595f69498b9f4b8b7121ab65f815a2",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/report_assets/企业端到端交付闭环图.png"
+    },
+    {
+      "source": "省一改/tmp/report_assets/企业端到端交付闭环图.svg",
+      "size": 4214,
+      "sha256": "a26c08ee1158a07c64995f305b195e4a4e89feefd626597304504a371d4685b3",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/report_assets/企业端到端交付闭环图.svg"
+    },
+    {
+      "source": "省一改/tmp/revise_language_in_original_framework.py",
+      "size": 27402,
+      "sha256": "7c578d812151187d0fefaa4fb212deb88857d29d3caf4517faa5aee4ab8ecfa1",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/revise_language_in_original_framework.py"
+    },
+    {
+      "source": "省一改/tmp/revise_report.py",
+      "size": 72519,
+      "sha256": "7f32cc282c54616dfc57c99fb5ec05675b25cd22207119cccc2d3fdf4db42cbe",
+      "status": "copied",
+      "destination": "9-project-materials/report-tools/revise_report.py"
+    },
+    {
+      "source": "省一改/上海证券交易所上市公司自律监管指引第14号——可持续发展报告（试行）.docx",
+      "size": 43801,
+      "sha256": "986c7d65d59763280d67fc9be1fc7bcffc4b469e7bc663ff9aed5f9e1523d36d",
+      "status": "copied",
+      "destination": "8-reference/上海证券交易所上市公司自律监管指引第14号——可持续发展报告（试行）.docx"
+    },
+    {
+      "source": "省一改/历年获奖案例：基金公告文本数据要素智能识别.pdf",
+      "size": 1593386,
+      "sha256": "3b080543ca01815de32892fcee357f8904e773e56f15a612a5615a51cf58663b",
+      "status": "copied",
+      "destination": "8-reference/历年获奖案例：基金公告文本数据要素智能识别.pdf"
+    },
+    {
+      "source": "省一改/历年获奖案例：程鉴——基金公告智能识别与AI分析系统.pdf",
+      "size": 5486551,
+      "sha256": "2861d0ade09102933c6a138a8d4628e0f24c7ef17812873d5bb9a94006fbef41",
+      "status": "copied",
+      "destination": "8-reference/历年获奖案例：程鉴——基金公告智能识别与AI分析系统.pdf"
+    },
+    {
+      "source": "省一改/国赛提交/ESGMiner代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.rar",
+      "size": 4550629,
+      "sha256": "75372e3ccfff1ad1ef4906871b049f6b2fe99a6659dbf1c0023c106c70e33c8e",
+      "status": "duplicate",
+      "destination": "0-docs/09-Archive/source-packages/esgminer-original.rar"
+    },
+    {
+      "source": "省一改/国赛提交/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 18128,
+      "sha256": "6db9774237436056665b8b29e65880378362ac3f3b4db4e2966f72394cf598b0",
+      "status": "duplicate",
+      "destination": "1-data/source-packages/数据集-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "省一改/国赛提交/智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队promax-承诺书.jpg",
+      "size": 392258,
+      "sha256": "d6ae06fcbf77e7d4f8b1322db1b2b34f7c31850237ecd625821a2535ce2015cc",
+      "status": "duplicate",
+      "destination": "9-project-materials/registration/智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队promax-承诺书.jpg"
+    },
+    {
+      "source": "省一改/国赛提交/爬虫代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.zip",
+      "size": 5391,
+      "sha256": "9a81d28088e10eb6077b9792725d64bbe484421999ba9e8e593aa337dff7fccc",
+      "status": "duplicate",
+      "destination": "0-docs/09-Archive/source-packages/crawler-original.zip"
+    },
+    {
+      "source": "省一改/国赛提交/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 6880075,
+      "sha256": "af54d75c85bb086ae72ec8b16ab85cf85c09436f65756990193d7937476649c3",
+      "status": "copied",
+      "destination": "9-project-materials/reports/national-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "省一改/国赛提交/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf",
+      "size": 2258896,
+      "sha256": "b92ea7a000fc18d8b106446acd9adc9741e43e9f125338aa893559580e278e98",
+      "status": "duplicate",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-2zp4hf.pdf"
+    },
+    {
+      "source": "省一改/图片1.png",
+      "size": 203768,
+      "sha256": "896a1d0380c2a315d3934d20ac2b1abd460dcad2f8e76248895a1496c5aa3848",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/图片1.png"
+    },
+    {
+      "source": "省一改/图表_方案一_交易所指引共同监管框架.png",
+      "size": 195364,
+      "sha256": "9ad5f382fd3a9660d82c9198c538fe5a44d1d9ad22c4d00bfb15a7b183d69bc9",
+      "status": "copied",
+      "destination": "8-reference/图表_方案一_交易所指引共同监管框架.png"
+    },
+    {
+      "source": "省一改/图表_方案三_报告规模与抽取效果.png",
+      "size": 232086,
+      "sha256": "de0b0a568deef917df3df0fb30027825fe5e7224fd7481d2106e600a08d9e336",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/图表_方案三_报告规模与抽取效果.png"
+    },
+    {
+      "source": "省一改/图表_方案二_60项核心ESG指标构成.png",
+      "size": 188942,
+      "sha256": "07a44ea9b983a1def45b9da40a489f64f52fb8067e2c0d6d4193c877a679f406",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/图表_方案二_60项核心ESG指标构成.png"
+    },
+    {
+      "source": "省一改/微信视频2026-09-15_192049_706.mp4",
+      "size": 31257059,
+      "sha256": "978b28b678ffa1ddca8d756c96a9a2ecdada577e2d3860f3aacdb5458a591f6f",
+      "status": "copied",
+      "destination": "9-project-materials/videos/provincial-revision/微信视频2026-09-15_192049_706.mp4"
+    },
+    {
+      "source": "省一改/扫码+导出.png",
+      "size": 105245,
+      "sha256": "e579bc0c6594c56f99e63b137b7d6a09653c9ab1c42fcda41e5e25220defe865",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/扫码+导出.png"
+    },
+    {
+      "source": "省一改/扫码+网址.svg",
+      "size": 25690,
+      "sha256": "0265e4f826322425dbe12190adeb4cb52f961d95cbb9abcde0e5e0d44cf2ce35",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/扫码+网址.svg"
+    },
+    {
+      "source": "省一改/新封面.png",
+      "size": 1687596,
+      "sha256": "e7924d2b4873167edcaf0a0e3df97a1a6887d207fe4924b657d68b211ea50f9b",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/新封面.png"
+    },
+    {
+      "source": "省一改/未标题-1.eps",
+      "size": 1879926,
+      "sha256": "e043e6cb4ec508492b9574cc3bb58ee0af0a17c47b0689ffc3b7b0b4303a5930",
+      "status": "copied",
+      "destination": "9-project-materials/figures/provincial-revision/未标题-1.eps"
+    },
+    {
+      "source": "省一改/深交所指引.docx",
+      "size": 49803,
+      "sha256": "7c314976ddb099c987474211415861e4f741538bdc948cc30fa526c4ee40b04e",
+      "status": "copied",
+      "destination": "8-reference/深交所指引.docx"
+    },
+    {
+      "source": "省一改/演示视频.mp4",
+      "size": 3250337,
+      "sha256": "41b5fdaef8fdaf904deec548d3587b66b81d6ac22c1f349fbb1c0e6f3f7ba4c2",
+      "status": "copied",
+      "destination": "9-project-materials/videos/provincial-revision/演示视频.mp4"
+    },
+    {
+      "source": "省一改/爬虫代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-yvigww/readme.md",
+      "size": 4699,
+      "sha256": "b03a80f186a5d1c4727d252ca9b69da74c4ea92affd8e5872b3053906611505f",
+      "status": "copied",
+      "destination": "3-crawler/README.md",
+      "migrated_sha256": "cb8ba3a256ff361d0d1c1fb3576183e19eec97a7aeacfa055dab055b341c6802",
+      "change": "Update working directory and command paths after migration"
+    },
+    {
+      "source": "省一改/爬虫代码-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-yvigww/爬虫代码.py",
+      "size": 8369,
+      "sha256": "2b3fdd5c5947808a5c0e87291362147362ac3b2402250fc5da1d2044c18d4433",
+      "status": "copied",
+      "destination": "3-crawler/collect_a_share_esg_reports.py"
+    },
+    {
+      "source": "省一改/省一改.docx",
+      "size": 5835259,
+      "sha256": "14e1d2112d23be8c443c2e645a38c11233f7e71c3ffc2d884331242f5faa7883",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/省一改.docx"
+    },
+    {
+      "source": "省一改/陈项目报告书-省一改(1).docx",
+      "size": 6790897,
+      "sha256": "8e74afa4c6e1e61677ab25bd4120a298d545e5e5780dbf9641c5a37f204f3a5e",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/陈项目报告书-省一改(1).docx"
+    },
+    {
+      "source": "省一改/陈项目报告书-省一改813-目录.docx",
+      "size": 6880102,
+      "sha256": "5c02cd49000b8bcbb44f3dd539b8943a3a8528a6d9fc58ceba12e020d6d7cf1d",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/陈项目报告书-省一改813-目录.docx"
+    },
+    {
+      "source": "省一改/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-pkco5r.pdf",
+      "size": 2031292,
+      "sha256": "e3b2ade376632be32a7a7b8085ec6ff2fdaf3b0fb5a4c049b2cc7f8edec437d2",
+      "status": "duplicate",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf"
+    },
+    {
+      "source": "省一改/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-国赛专项修订版.docx",
+      "size": 5268810,
+      "sha256": "84e24769e8f3ad5ddb9dafda3944857826fe97638571351774a3ee298a834331",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-国赛专项修订版.docx"
+    },
+    {
+      "source": "省一改/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-国赛语言逻辑修订版.docx",
+      "size": 5267033,
+      "sha256": "7e2773d798dea5fcf4f4b70aa7ee3b86b968acc92cecdefb69a729552822ed7b",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-国赛语言逻辑修订版.docx"
+    },
+    {
+      "source": "省一改/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx",
+      "size": 6009835,
+      "sha256": "3126c1900c4eb245ffbc8088ccb4c9add970718391635cadf57615d9e96297d2",
+      "status": "duplicate",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.docx"
+    },
+    {
+      "source": "省一改/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf",
+      "size": 2149339,
+      "sha256": "4474fcac03f2156b06e114d20e834e0e9b4d17b551779d7a3006cd65c80b6fad",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf"
+    },
+    {
+      "source": "省一改/项目报告书-省一改-二三章.docx",
+      "size": 6022187,
+      "sha256": "1119851ded143848006e8b8ba1833fc985d8a05a77bfb4101870430d8fac4b97",
+      "status": "copied",
+      "destination": "9-project-materials/reports/provincial-revision/项目报告书-省一改-二三章.docx"
+    },
+    {
+      "source": "老师后.docx",
+      "size": 6195404,
+      "sha256": "22a313a247c53ef19edbafcceeebd2062585dc491604bf11f8ad94b9390ad11e",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/老师后.docx"
+    },
+    {
+      "source": "赛题-ESG报告数据智能提取与分析-rvxkvt.pdf",
+      "size": 215671,
+      "sha256": "8b9407134cea19b4d1e71af41493d28289dbd454c6c65a3dd060eeb2d18b078f",
+      "status": "copied",
+      "destination": "9-project-materials/reports/original/赛题-ESG报告数据智能提取与分析-rvxkvt.pdf"
+    },
+    {
+      "source": "项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax-pkco5r.pdf",
+      "size": 2031292,
+      "sha256": "e3b2ade376632be32a7a7b8085ec6ff2fdaf3b0fb5a4c049b2cc7f8edec437d2",
+      "status": "duplicate",
+      "destination": "9-project-materials/reports/original-submission/项目报告书-智析万卷：面向ESG报告的自适应布局分析与要素提取-专业团队ProMax.pdf"
+    }
+  ]
+}

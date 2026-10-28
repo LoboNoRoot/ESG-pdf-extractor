@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.3 841.9">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 6.4px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        fill: #64748b;
+      }
+
+      .st0, .st2, .st3, .st6, .st8, .st12, .st13, .st14, .st15, .st19, .st20, .st22, .st23, .st26, .st27, .st29 {
+        font-family: SimHei, SimHei;
+      }
+
+      .st1, .st4, .st9, .st10, .st11, .st17, .st18, .st21, .st24, .st25, .st28, .st30 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .st1, .st10, .st14, .st17, .st19, .st20, .st22, .st25 {
+        font-size: 7px;
+      }
+
+      .st1, .st31, .st20 {
+        fill: #059669;
+      }
+
+      .st2 {
+        font-size: 5px;
+      }
+
+      .st3, .st4, .st5 {
+        fill: #b45309;
+      }
+
+      .st3, .st4, .st5, .st6, .st7, .st9, .st11, .st13, .st16, .st26 {
+        font-size: 8px;
+      }
+
+      .st32 {
+        stroke: #a7f3d0;
+      }
+
+      .st32, .st33, .st34, .st35, .st36, .st37 {
+        stroke-miterlimit: 1.1;
+      }
+
+      .st32, .st35, .st37 {
+        stroke-width: .4px;
+      }
+
+      .st32, .st38 {
+        fill: #ecfdf5;
+      }
+
+      .st5, .st7, .st16 {
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-weight: 700;
+      }
+
+      .st6, .st7, .st11 {
+        fill: #047857;
+      }
+
+      .st8, .st39, .st34, .st36, .st28 {
+        fill: #fff;
+      }
+
+      .st8, .st28, .st30 {
+        font-size: 10px;
+      }
+
+      .st9, .st16, .st26 {
+        fill: #1d4ed8;
+      }
+
+      .st10, .st40, .st19 {
+        fill: #2563eb;
+      }
+
+      .st12 {
+        font-size: 8.3px;
+      }
+
+      .st12, .st13, .st17, .st22, .st29 {
+        fill: #1e293b;
+      }
+
+      .st14, .st41, .st25 {
+        fill: #d97706;
+      }
+
+      .st15, .st24 {
+        font-size: 6px;
+      }
+
+      .st15, .st24, .st30 {
+        fill: #e2e8f0;
+      }
+
+      .st33 {
+        fill: #f8fafc;
+      }
+
+      .st33, .st34, .st36 {
+        stroke-width: .6px;
+      }
+
+      .st33, .st36 {
+        stroke: #e2e8f0;
+      }
+
+      .st34 {
+        stroke: #cbd5e1;
+      }
+
+      .st42, .st35 {
+        fill: #eff6ff;
+      }
+
+      .st43, .st37 {
+        fill: #fef3c7;
+      }
+
+      .st18, .st21, .st23, .st27 {
+        fill: #0f172a;
+      }
+
+      .st18, .st23 {
+        font-size: 8.3px;
+      }
+
+      .st21, .st27 {
+        font-size: 5.9px;
+      }
+
+      .st35 {
+        stroke: #bfdbfe;
+      }
+
+      .st29 {
+        font-size: 8.7px;
+      }
+
+      .st37 {
+        stroke: #fde68a;
+      }
+    </style>
+  </defs>
+  <rect class="st31" x="21.3" y="8.9" width="178.6" height="23.2" rx="4" ry="4"/>
+  <text class="st8" transform="translate(67.2 21)"><tspan x="0" y="0">环境</tspan></text>
+  <text class="st28" transform="translate(87.2 21)"><tspan x="0" y="0" xml:space="preserve"> Environmental</tspan></text>
+  <text class="st15" transform="translate(86.8 28.7)"><tspan x="0" y="0">议题</tspan></text>
+  <text class="st24" transform="translate(98.8 28.7)"><tspan x="0" y="0" xml:space="preserve"> 1 - 8 · </tspan></text>
+  <text class="st15" transform="translate(116.3 28.7)"><tspan x="0" y="0">共</tspan></text>
+  <text class="st24" transform="translate(122.3 28.7)"><tspan x="0" y="0" xml:space="preserve"> 8 </tspan></text>
+  <text class="st15" transform="translate(128.3 28.7)"><tspan x="0" y="0">项</tspan></text>
+  <rect class="st33" x="21.3" y="36.9" width="178.6" height="230.2" rx="3.9" ry="3.9"/>
+  <rect class="st36" x="25.5" y="39.5" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st36" x="25.5" y="109.5" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st36" x="25.5" y="133" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st36" x="25.5" y="156.4" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st36" x="25.5" y="179.6" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st40" x="212.6" y="8.9" width="178.6" height="23.2" rx="4" ry="4"/>
+  <text class="st8" transform="translate(277.9 21)"><tspan x="0" y="0">社会</tspan></text>
+  <text class="st28" transform="translate(297.9 21)"><tspan x="0" y="0" xml:space="preserve"> Social</tspan></text>
+  <text class="st15" transform="translate(276.6 28.7)"><tspan x="0" y="0">议题</tspan></text>
+  <text class="st24" transform="translate(288.6 28.7)"><tspan x="0" y="0" xml:space="preserve"> 9 - 17 · </tspan></text>
+  <text class="st15" transform="translate(309.1 28.7)"><tspan x="0" y="0">共</tspan></text>
+  <text class="st24" transform="translate(315.1 28.7)"><tspan x="0" y="0" xml:space="preserve"> 9 </tspan></text>
+  <text class="st15" transform="translate(321.1 28.7)"><tspan x="0" y="0">项</tspan></text>
+  <rect class="st33" x="212.6" y="36.1" width="178.6" height="230.2" rx="3.9" ry="3.9"/>
+  <rect class="st41" x="403.9" y="9.7" width="178.6" height="23.2" rx="4" ry="4"/>
+  <text class="st8" transform="translate(428.1 21)"><tspan x="0" y="0">可持续发展相关治理</tspan></text>
+  <text class="st28" transform="translate(518.1 21)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st30" transform="translate(520.6 21)"><tspan x="0" y="0">Governance</tspan></text>
+  <text class="st15" transform="translate(473.8 29.6)"><tspan x="0" y="0">议题</tspan></text>
+  <text class="st24" transform="translate(485.8 29.6)"><tspan x="0" y="0" xml:space="preserve"> 18 - 21 · </tspan></text>
+  <text class="st15" transform="translate(509.3 29.6)"><tspan x="0" y="0">共</tspan></text>
+  <text class="st24" transform="translate(515.3 29.6)"><tspan x="0" y="0" xml:space="preserve"> 4 </tspan></text>
+  <text class="st15" transform="translate(521.3 29.6)"><tspan x="0" y="0">项</tspan></text>
+  <rect class="st33" x="403.9" y="36.9" width="178.6" height="230.2" rx="3.9" ry="3.9"/>
+  <rect class="st36" x="408.2" y="40.4" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st43" x="412.5" y="43.6" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st5" transform="translate(415.9 53)"><tspan x="0" y="0">18</tspan></text>
+  <rect class="st36" x="408.2" y="63.6" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st43" x="412.5" y="66.8" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st5" transform="translate(415.9 76.2)"><tspan x="0" y="0">19</tspan></text>
+  <rect class="st36" x="408.2" y="86.9" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st43" x="412.5" y="90" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st5" transform="translate(415.9 99.3)"><tspan x="0" y="0">20</tspan></text>
+  <rect class="st36" x="408.2" y="110.1" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st43" x="412.5" y="113.3" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st5" transform="translate(415.9 122.7)"><tspan x="0" y="0">21</tspan></text>
+  <text class="st13" transform="translate(430.9 53.8)"><tspan x="0" y="0">尽职调查</tspan></text>
+  <text class="st13" transform="translate(430.9 77.1)"><tspan x="0" y="0">利益相关方沟通</tspan></text>
+  <text class="st13" transform="translate(430.9 100.2)"><tspan x="0" y="0">反商业贿赂及反贪污</tspan></text>
+  <text class="st13" transform="translate(430.9 123.5)"><tspan x="0" y="0">反不正当竞争</tspan></text>
+  <rect class="st34" x="408.3" y="136.7" width="170.1" height="126.4" rx="3.4" ry="3.4"/>
+  <rect class="st38" x="29.3" y="43" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 52.4)"><tspan x="0" y="0">01</tspan></text>
+  <rect class="st38" x="29.3" y="112.6" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 122)"><tspan x="0" y="0">04</tspan></text>
+  <rect class="st38" x="29.3" y="136.1" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 145.5)"><tspan x="0" y="0">05</tspan></text>
+  <rect class="st38" x="29.3" y="159" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 168.3)"><tspan x="0" y="0">06</tspan></text>
+  <rect class="st38" x="29.3" y="182.7" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 192.1)"><tspan x="0" y="0">07</tspan></text>
+  <path class="st32" d="M146.2,42.6h37.5c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-37.5c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(144.9 52.6)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(152.9 52.6)"><tspan x="0" y="0">21—28</tspan></text>
+  <text class="st6" transform="translate(176.9 52.6)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="25.5" y="63.4" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st38" x="29.3" y="66.5" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 75.9)"><tspan x="0" y="0">02</tspan></text>
+  <path class="st32" d="M160.5,66.1h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.1 76.1)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.1 76.1)"><tspan x="0" y="0">30</tspan></text>
+  <text class="st6" transform="translate(176.1 76.1)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="25.5" y="86.6" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st38" x="29.3" y="89.7" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 99.1)"><tspan x="0" y="0">03</tspan></text>
+  <path class="st32" d="M160.6,89.7h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.2 99.7)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.2 99.7)"><tspan x="0" y="0">31</tspan></text>
+  <text class="st6" transform="translate(176.2 99.7)"><tspan x="0" y="0">条</tspan></text>
+  <path class="st32" d="M160.6,112.2h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.2 122.2)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.2 122.2)"><tspan x="0" y="0">32</tspan></text>
+  <text class="st6" transform="translate(176.2 122.2)"><tspan x="0" y="0">条</tspan></text>
+  <path class="st32" d="M160.5,135.7h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.1 145.7)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.1 145.7)"><tspan x="0" y="0">33</tspan></text>
+  <text class="st6" transform="translate(176.1 145.7)"><tspan x="0" y="0">条</tspan></text>
+  <path class="st32" d="M160.6,159h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.2 169)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.2 169)"><tspan x="0" y="0">35</tspan></text>
+  <text class="st6" transform="translate(176.2 169)"><tspan x="0" y="0">条</tspan></text>
+  <path class="st32" d="M160.5,182.3h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.1 192.3)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.1 192.3)"><tspan x="0" y="0">36</tspan></text>
+  <text class="st6" transform="translate(176.1 192.3)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="25.5" y="202.8" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <text class="st13" transform="translate(47.9 53.3)"><tspan x="0" y="0">应对气候变化</tspan></text>
+  <text class="st12" transform="translate(48.2 123.2) scale(.9 1)"><tspan x="0" y="0">生态系统和生物多样性保护</tspan></text>
+  <text class="st13" transform="translate(47.9 146.4)"><tspan x="0" y="0">环境合规管理</tspan></text>
+  <text class="st13" transform="translate(47.9 169.7)"><tspan x="0" y="0">能源利用</tspan></text>
+  <text class="st13" transform="translate(47.9 193)"><tspan x="0" y="0">水资源利用</tspan></text>
+  <text class="st13" transform="translate(47.9 76.8)"><tspan x="0" y="0">污染物排放</tspan></text>
+  <text class="st13" transform="translate(47.9 100)"><tspan x="0" y="0">废弃物处理</tspan></text>
+  <text class="st13" transform="translate(47.9 216.2)"><tspan x="0" y="0">循环经济</tspan></text>
+  <rect class="st38" x="29.3" y="205.9" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st7" transform="translate(32.7 215.3)"><tspan x="0" y="0">08</tspan></text>
+  <path class="st32" d="M160.6,205.9h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st6" transform="translate(160.2 215.8)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st11" transform="translate(168.2 215.8)"><tspan x="0" y="0">37</tspan></text>
+  <text class="st6" transform="translate(176.2 215.8)"><tspan x="0" y="0">条</tspan></text>
+  <path class="st37" d="M543,43.2h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <path class="st37" d="M542.2,66.4h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <path class="st37" d="M543,89.6h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <path class="st37" d="M543,112.9h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.7-7.8,7.7h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.7,7.8-7.7Z"/>
+  <text class="st3" transform="translate(542.6 53.2)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st4" transform="translate(550.6 53.2)"><tspan x="0" y="0">52</tspan></text>
+  <text class="st3" transform="translate(558.6 53.2)"><tspan x="0" y="0">条</tspan></text>
+  <text class="st3" transform="translate(541.8 76.4)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st4" transform="translate(549.8 76.4)"><tspan x="0" y="0">53</tspan></text>
+  <text class="st3" transform="translate(557.8 76.4)"><tspan x="0" y="0">条</tspan></text>
+  <text class="st3" transform="translate(542.6 99.5)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st4" transform="translate(550.6 99.5)"><tspan x="0" y="0">55</tspan></text>
+  <text class="st3" transform="translate(558.6 99.5)"><tspan x="0" y="0">条</tspan></text>
+  <text class="st3" transform="translate(542.6 122.9)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st4" transform="translate(550.6 122.9)"><tspan x="0" y="0">56</tspan></text>
+  <text class="st3" transform="translate(558.6 122.9)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="39" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="42.1" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 51.5)"><tspan x="0" y="0">09</tspan></text>
+  <text class="st13" transform="translate(240.7 52.3)"><tspan x="0" y="0">乡村振兴</tspan></text>
+  <path class="st35" d="M351,41.7h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.7 51.7)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.7 51.7)"><tspan x="0" y="0">39</tspan></text>
+  <text class="st26" transform="translate(366.7 51.7)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="62.1" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="65.2" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 74.6)"><tspan x="0" y="0">10</tspan></text>
+  <text class="st13" transform="translate(240.7 75.5)"><tspan x="0" y="0">社会贡献</tspan></text>
+  <path class="st35" d="M351,64.8h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.7 74.8)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.7 74.8)"><tspan x="0" y="0">40</tspan></text>
+  <text class="st26" transform="translate(366.7 74.8)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="85.1" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.6" y="88.2" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.2 97.6)"><tspan x="0" y="0">11</tspan></text>
+  <text class="st13" transform="translate(240.7 98.4)"><tspan x="0" y="0">创新驱动</tspan></text>
+  <path class="st35" d="M351.9,87.8h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(351.5 97.8)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(359.5 97.8)"><tspan x="0" y="0">42</tspan></text>
+  <text class="st26" transform="translate(367.5 97.8)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="108.6" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="111.7" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 121.1)"><tspan x="0" y="0">12</tspan></text>
+  <text class="st13" transform="translate(240.7 122)"><tspan x="0" y="0">科技伦理</tspan></text>
+  <path class="st35" d="M351.7,111.4h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(351.4 121.3)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(359.4 121.3)"><tspan x="0" y="0">43</tspan></text>
+  <text class="st26" transform="translate(367.4 121.3)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="132" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="135.1" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 144.5)"><tspan x="0" y="0">13</tspan></text>
+  <text class="st13" transform="translate(240.7 145.3)"><tspan x="0" y="0">供应链安全</tspan></text>
+  <path class="st35" d="M351,134.7h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.7 144.7)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.7 144.7)"><tspan x="0" y="0">45</tspan></text>
+  <text class="st26" transform="translate(366.7 144.7)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="155.3" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="158.4" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 167.8)"><tspan x="0" y="0">14</tspan></text>
+  <text class="st13" transform="translate(240.7 168.6)"><tspan x="0" y="0">平等对待中小企业</tspan></text>
+  <path class="st35" d="M350.1,158h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(349.7 168)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(357.7 168)"><tspan x="0" y="0">46</tspan></text>
+  <text class="st26" transform="translate(365.7 168)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="178.5" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="181.6" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 191)"><tspan x="0" y="0">15</tspan></text>
+  <text class="st13" transform="translate(240.7 191.8)"><tspan x="0" y="0">产品和服务安全与质量</tspan></text>
+  <path class="st35" d="M351,181.2h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.7 191.2)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.7 191.2)"><tspan x="0" y="0">47</tspan></text>
+  <text class="st26" transform="translate(366.7 191.2)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.7" y="201.4" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="220.7" y="204.6" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.1 213.9)"><tspan x="0" y="0">16</tspan></text>
+  <text class="st29" transform="translate(240.7 215) scale(.9 1)"><tspan x="0" y="0">数据安全与客户隐私保护</tspan></text>
+  <path class="st35" d="M351.3,204.2h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.9 214.7)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.9 214)"><tspan x="0" y="0">48</tspan></text>
+  <text class="st26" transform="translate(366.9 214.2)"><tspan x="0" y="0">条</tspan></text>
+  <rect class="st36" x="216.9" y="225.1" width="170.1" height="21" rx="2.8" ry="2.8"/>
+  <rect class="st42" x="221.5" y="228.2" width="14.7" height="14.7" rx="2.8" ry="2.8"/>
+  <text class="st16" transform="translate(224.9 237.6)"><tspan x="0" y="0">17</tspan></text>
+  <text class="st13" transform="translate(240.9 238.5)"><tspan x="0" y="0">员工</tspan></text>
+  <path class="st35" d="M351.3,227.8h23.2c4.3,0,7.8,3.5,7.8,7.8h0c0,4.3-3.5,7.8-7.8,7.8h-23.2c-4.3,0-7.8-3.5-7.8-7.8h0c0-4.3,3.5-7.8,7.8-7.8Z"/>
+  <text class="st26" transform="translate(350.9 237.8)"><tspan x="0" y="0">第</tspan></text>
+  <text class="st9" transform="translate(358.9 237.8)"><tspan x="0" y="0">50</tspan></text>
+  <text class="st26" transform="translate(366.9 237.8)"><tspan x="0" y="0">条</tspan></text>
+  <text class="st27" transform="translate(451.9 149.8)"><tspan x="0" y="0">指引议题分布占比总结</tspan></text>
+  <text class="st21" transform="translate(510.5 149.8)"><tspan x="0" y="0" xml:space="preserve"> (</tspan></text>
+  <text class="st27" transform="translate(514.3 149.8)"><tspan x="0" y="0">共</tspan></text>
+  <text class="st21" transform="translate(520.1 149.8)"><tspan x="0" y="0">21</tspan></text>
+  <text class="st27" transform="translate(526.9 149.8)"><tspan x="0" y="0">项</tspan></text>
+  <text class="st21" transform="translate(532.7 149.8)"><tspan x="0" y="0">)</tspan></text>
+  <path class="st31" d="M459,202.7v-32c17.7,0,32,14.4,32,32.1s-3.7,17.4-10.3,23.5l-8.6-9.6c7.7-7.3,8-19.5.6-27.2-3.6-3.8-8.6-5.9-13.8-6v19.2h0Z"/>
+  <path class="st40" d="M459,202.7l21.7,23.5c-13,12-33.3,11.2-45.3-1.8-6.2-6.7-9.3-15.8-8.4-25l12.8,1.3c-1,10.6,6.8,20,17.3,21,5.5.5,10.9-1.3,15-5.1l-13.1-13.9Z"/>
+  <path class="st41" d="M459,202.7l-31.9-3.2c1.6-16.4,15.4-28.9,31.9-28.8v12.8c-9.9,0-18.2,7.5-19.2,17.3l19.2,1.9Z"/>
+  <circle class="st39" cx="459" cy="202.7" r="15.4"/>
+  <text class="st18" transform="translate(451.5 200.7)"><tspan x="0" y="0">21</tspan></text>
+  <text class="st23" transform="translate(461.1 200.7)"><tspan x="0" y="0">项</tspan></text>
+  <text class="st0" transform="translate(454.9 210.4)"><tspan x="0" y="0">总计</tspan></text>
+  <text class="st1" transform="translate(520 185.7)"><tspan x="0" y="0">8 </tspan></text>
+  <text class="st20" transform="translate(525.8 185.7)"><tspan x="0" y="0">项</tspan></text>
+  <text class="st1" transform="translate(532.8 185.7)"><tspan x="0" y="0" xml:space="preserve"> (38.1%)</tspan></text>
+  <path class="st31" d="M510.9,170.5c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2-2.2-1-2.2-2.2,1-2.2,2.2-2.2Z"/>
+  <text class="st22" transform="translate(519.7 175.8)"><tspan x="0" y="0">环境</tspan></text>
+  <text class="st17" transform="translate(533.7 175.8)"><tspan x="0" y="0" xml:space="preserve"> (E)</tspan></text>
+  <text class="st22" transform="translate(544.5 175.8)"><tspan x="0" y="0">维度</tspan></text>
+  <text class="st10" transform="translate(520.3 211.6)"><tspan x="0" y="0">8 </tspan></text>
+  <text class="st19" transform="translate(526.1 211.6)"><tspan x="0" y="0">项</tspan></text>
+  <text class="st10" transform="translate(533.1 211.6)"><tspan x="0" y="0" xml:space="preserve"> (38.1%)</tspan></text>
+  <path class="st40" d="M510.9,196c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2-2.2-1-2.2-2.2,1-2.2,2.2-2.2Z"/>
+  <text class="st22" transform="translate(519.7 201.3)"><tspan x="0" y="0">社会</tspan></text>
+  <text class="st17" transform="translate(533.7 201.3)"><tspan x="0" y="0" xml:space="preserve"> (S)</tspan></text>
+  <text class="st22" transform="translate(544.7 201.3)"><tspan x="0" y="0">维度</tspan></text>
+  <path class="st41" d="M510.9,221.9c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2-2.2-1-2.2-2.2,1-2.2,2.2-2.2Z"/>
+  <text class="st22" transform="translate(519.7 227.2)"><tspan x="0" y="0">治理</tspan></text>
+  <text class="st17" transform="translate(533.7 227.2)"><tspan x="0" y="0" xml:space="preserve"> (G)</tspan></text>
+  <text class="st22" transform="translate(545.8 227.2)"><tspan x="0" y="0">维度</tspan></text>
+  <text class="st25" transform="translate(520.3 236.9)"><tspan x="0" y="0">5 </tspan></text>
+  <text class="st14" transform="translate(526.1 236.9)"><tspan x="0" y="0">项</tspan></text>
+  <text class="st25" transform="translate(533.1 236.9)"><tspan x="0" y="0" xml:space="preserve"> (23.8%)</tspan></text>
+  <text class="st2" transform="translate(414.1 257.1)"><tspan x="0" y="0">数据来源：沪深北交易所《上市公司可持续发展报告指引》</tspan></text>
+</svg>

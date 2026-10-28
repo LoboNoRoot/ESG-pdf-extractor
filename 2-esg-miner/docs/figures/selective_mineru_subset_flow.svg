@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <defs>
+    <style>
+      .bg{fill:#f5f5f7}.card{fill:#fff;stroke:#d2d2d7;stroke-width:1.2}.focus{fill:#eaf3ff;stroke:#8fc5ff;stroke-width:1.4}.muted{fill:#fafafa;stroke:#d2d2d7;stroke-width:1}
+      .text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif;fill:#1d1d1f}.title{font-size:34px;font-weight:700}.sub{font-size:20px;fill:#6e6e73}.node{font-size:21px;font-weight:650}.small{font-size:16px;fill:#6e6e73}
+      .arrow{stroke:#86868b;stroke-width:2.2;fill:none;marker-end:url(#arrow)}.bluearrow{stroke:#0071e3;stroke-width:2.6;fill:none;marker-end:url(#arrowBlue)}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#86868b"/></marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#0071e3"/></marker>
+  </defs>
+  <rect class="bg" width="1400" height="760"/>
+  <text class="text title" x="70" y="74">选择性 MinerU 子 PDF 解析流程</text>
+  <text class="text sub" x="70" y="112">先筛选重点页，再生成子 PDF，只对高价值页面进行深度解析</text>
+
+  <rect class="card" x="80" y="180" width="210" height="420" rx="24"/>
+  <text class="text node" x="185" y="224" text-anchor="middle">原始 ESG PDF</text>
+  <g transform="translate(125 260)">
+    <rect class="muted" x="0" y="0" width="120" height="34" rx="8"/><text class="text small" x="60" y="23" text-anchor="middle">第 1 页</text>
+    <rect class="focus" x="0" y="46" width="120" height="34" rx="8"/><text class="text small" x="60" y="69" text-anchor="middle">第 8 页</text>
+    <rect class="muted" x="0" y="92" width="120" height="34" rx="8"/><text class="text small" x="60" y="115" text-anchor="middle">第 9 页</text>
+    <rect class="focus" x="0" y="138" width="120" height="34" rx="8"/><text class="text small" x="60" y="161" text-anchor="middle">第 23 页</text>
+    <rect class="focus" x="0" y="184" width="120" height="34" rx="8"/><text class="text small" x="60" y="207" text-anchor="middle">第 34 页</text>
+    <rect class="muted" x="0" y="230" width="120" height="34" rx="8"/><text class="text small" x="60" y="253" text-anchor="middle">...</text>
+  </g>
+
+  <path class="arrow" d="M290 390 H390"/>
+  <rect class="card" x="390" y="205" width="235" height="150" rx="22"/>
+  <text class="text node" x="507.5" y="258" text-anchor="middle">页级快扫</text>
+  <text class="text small" x="507.5" y="290" text-anchor="middle">关键词 / 数值 / 表格线索</text>
+  <rect class="card" x="390" y="425" width="235" height="150" rx="22"/>
+  <text class="text node" x="507.5" y="478" text-anchor="middle">parse_plan</text>
+  <text class="text small" x="507.5" y="510" text-anchor="middle">mineru_pages=[8,23,34]</text>
+  <path class="arrow" d="M507.5 355 V425"/>
+
+  <path class="bluearrow" d="M625 500 H745"/>
+  <rect class="focus" x="745" y="310" width="250" height="250" rx="24"/>
+  <text class="text node" x="870" y="358" text-anchor="middle">重点页子 PDF</text>
+  <text class="text small" x="870" y="388" text-anchor="middle">仅保留选中页面</text>
+  <g transform="translate(810 420)">
+    <rect class="card" x="0" y="0" width="120" height="34" rx="8"/><text class="text small" x="60" y="23" text-anchor="middle">第 8 页</text>
+    <rect class="card" x="0" y="46" width="120" height="34" rx="8"/><text class="text small" x="60" y="69" text-anchor="middle">第 23 页</text>
+    <rect class="card" x="0" y="92" width="120" height="34" rx="8"/><text class="text small" x="60" y="115" text-anchor="middle">第 34 页</text>
+  </g>
+
+  <path class="bluearrow" d="M995 435 H1115"/>
+  <rect class="card" x="1115" y="300" width="220" height="270" rx="24"/>
+  <text class="text node" x="1225" y="355" text-anchor="middle">MinerU 深度解析</text>
+  <text class="text small" x="1225" y="388" text-anchor="middle">表格 / 复杂版式</text>
+  <rect class="muted" x="1155" y="430" width="140" height="48" rx="12"/>
+  <text class="text small" x="1225" y="460" text-anchor="middle">Markdown / TXT</text>
+  <rect class="muted" x="1155" y="496" width="140" height="48" rx="12"/>
+  <text class="text small" x="1225" y="526" text-anchor="middle">mineru_jobs.json</text>
+</svg>

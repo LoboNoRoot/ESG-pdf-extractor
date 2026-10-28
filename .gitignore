@@ -1,0 +1,27 @@
+# Local settings and environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+node_modules/
+dist/
+
+# Runtime and verification artifacts
+/tmp/
+/.baseline-*/
+/2-esg-miner/data/
+/2-esg-miner/output/
+*.log
+~$*
+
+# Large source assets and personal registration documents stay local
+/1-data/*
+!/1-data/README.md
+/9-project-materials/registration/
+/0-docs/09-Archive/source-packages/
+.claude

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1690 960">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25 {
+        isolation: isolate;
+      }
+
+      .st0, .st10, .st11, .st13, .st15, .st17, .st21, .st22 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st0, .st10, .st26, .st27 {
+        fill: #47a047;
+      }
+
+      .st0, .st15, .st21, .st22 {
+        font-size: 36px;
+      }
+
+      .st28, .st1, .st4, .st6, .st7, .st8, .st9, .st14, .st18, .st20 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .st1, .st29, .st3, .st4, .st30, .st8, .st12, .st13, .st14, .st31, .st15, .st16, .st17, .st27, .st32, .st20, .st21, .st23, .st25 {
+        stroke-width: 2px;
+      }
+
+      .st1, .st29, .st33, .st12, .st13, .st16, .st34, .st27, .st21 {
+        stroke: #47a047;
+      }
+
+      .st1, .st2, .st4, .st9, .st12, .st14 {
+        font-size: 24px;
+      }
+
+      .st1, .st3, .st4, .st35, .st33, .st8, .st36, .st37, .st12, .st13, .st14, .st15, .st16, .st17, .st20, .st21, .st23, .st25 {
+        fill: none;
+      }
+
+      .st38 {
+        fill: #f2f2f3;
+        stroke: #ccc;
+      }
+
+      .st29 {
+        fill: #f0f9e8;
+      }
+
+      .st2, .st5, .st9, .st18, .st19 {
+        fill: #222;
+      }
+
+      .st3, .st4, .st30, .st8, .st36, .st37, .st31, .st20, .st25 {
+        stroke: #e72;
+      }
+
+      .st3, .st7, .st18, .st19, .st20 {
+        font-size: 26px;
+      }
+
+      .st5, .st39, .st16, .st23, .st24, .st25 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st5, .st16, .st23 {
+        font-size: 28px;
+      }
+
+      .st6, .st40, .st30, .st24 {
+        fill: #e72;
+      }
+
+      .st6, .st8 {
+        font-size: 30px;
+      }
+
+      .st35, .st33, .st37, .st34 {
+        stroke-width: 6px;
+      }
+
+      .st35, .st14, .st15, .st17, .st32, .st23 {
+        stroke: #37d;
+      }
+
+      .st41 {
+        fill: #fff;
+      }
+
+      .st7 {
+        fill: #333;
+      }
+
+      .st10, .st11, .st13, .st17 {
+        font-size: 32px;
+      }
+
+      .st36 {
+        stroke-width: 4px;
+      }
+
+      .st11, .st42, .st22 {
+        fill: #37d;
+      }
+
+      .st31 {
+        fill: #fff3e8;
+      }
+
+      .st32 {
+        fill: #eef6ff;
+      }
+
+      .st24, .st25 {
+        font-size: 40px;
+      }
+    </style>
+  </defs>
+  <rect class="st41" width="1690" height="960"/>
+  <g>
+    <rect class="st38" x="20" y="20" width="310" height="80" rx="8" ry="8"/>
+    <text class="st7" transform="translate(155.5 68)"><tspan x="0" y="0">通道</tspan></text>
+    <rect class="st38" x="350" y="20" width="310" height="80" rx="8" ry="8"/>
+    <text class="st7" transform="translate(466 68)"><tspan x="0" y="0">适用页面</tspan></text>
+    <rect class="st38" x="680" y="20" width="310" height="80" rx="8" ry="8"/>
+    <text class="st7" transform="translate(796 68)"><tspan x="0" y="0">解析工具</tspan></text>
+    <rect class="st38" x="1010" y="20" width="310" height="80" rx="8" ry="8"/>
+    <text class="st7" transform="translate(1126 68)"><tspan x="0" y="0">输出格式</tspan></text>
+    <rect class="st38" x="1340" y="20" width="310" height="80" rx="8" ry="8"/>
+    <text class="st7" transform="translate(1475.5 68)"><tspan x="0" y="0">特点</tspan></text>
+  </g>
+  <rect class="st29" x="-153.9" y="113" width="310" height="220" rx="8" ry="8"/>
+  <path class="st33" d="M-48.9,153H51.1v120H-48.9v-120ZM-33.9,173H36.1M-33.9,203H36.1M-33.9,233H6.1"/>
+  <circle class="st33" cx="31.1" cy="238" r="22"/>
+  <line class="st33" x1="46.1" y1="253" x2="66.1" y2="273"/>
+  <text class="st10" transform="translate(-53.1 303)"><tspan x="0" y="0">MinerU</tspan></text>
+  <text class="st13" transform="translate(-53.1 303)"><tspan x="0" y="0">MinerU</tspan></text>
+  <rect class="st29" x="176.1" y="113" width="310" height="220" rx="8" ry="8"/>
+  <path class="st33" d="M281.1,153h80v100h-80v-100ZM296.1,173h50M296.1,198h50M296.1,223h40M326.1,143h80v100h-80v-100Z"/>
+  <text class="st9" transform="translate(231.2 293)"><tspan x="0" y="0">精解析高价值页</tspan></text>
+  <text class="st1" transform="translate(231.2 293)"><tspan x="0" y="0">精解析高价值页</tspan></text>
+  <text class="st2" transform="translate(357.2 293)"><tspan class="st39" x="0" y="0">(≤12</tspan><tspan class="st28" x="47.9" y="0">页</tspan><tspan class="st39" x="71.9" y="0">)</tspan></text>
+  <text class="st12" transform="translate(357.2 293)"><tspan class="st39" x="0" y="0">(≤12</tspan><tspan class="st28" x="47.9" y="0">页</tspan><tspan class="st39" x="71.9" y="0">)</tspan></text>
+  <rect class="st29" x="506.1" y="113" width="310" height="220" rx="8" ry="8"/>
+  <circle class="st33" cx="661.1" cy="203" r="40"/>
+  <path class="st34" d="M661.1,153v-20M661.1,253v20M611.1,203h-20M711.1,203h20M626.1,168l-14-14M696.1,238l14,14M626.1,238l-14,14M696.1,168l14-14"/>
+  <text class="st5" transform="translate(616 303)"><tspan x="0" y="0">MinerU</tspan></text>
+  <text class="st16" transform="translate(616 303)"><tspan x="0" y="0">MinerU</tspan></text>
+  <rect class="st29" x="836.1" y="113" width="310" height="220" rx="8" ry="8"/>
+  <path class="st33" d="M936.1,153h110v120h-110v-120Z"/>
+  <text class="st0" transform="translate(963.2 223)"><tspan x="0" y="0">MD</tspan></text>
+  <text class="st21" transform="translate(963.2 223)"><tspan x="0" y="0">MD</tspan></text>
+  <text class="st2" transform="translate(908.8 303)"><tspan class="st28" x="0" y="0">结构化</tspan><tspan class="st39" x="72" y="0">Markdown</tspan></text>
+  <text class="st12" transform="translate(908.8 303)"><tspan class="st28" x="0" y="0">结构化</tspan><tspan class="st39" x="72" y="0">Markdown</tspan></text>
+  <rect class="st29" x="1705" y="93" width="310" height="220" rx="8" ry="8"/>
+  <circle class="st33" cx="1321.1" cy="193" r="45"/>
+  <circle class="st33" cx="1321.1" cy="193" r="22"/>
+  <circle class="st27" cx="1321.1" cy="193" r="6"/>
+  <path class="st27" d="M1351.1,163l30-30M1366.1,153l20-10-10,20"/>
+  <text class="st9" transform="translate(1258.1 303)"><tspan x="0" y="0">精度高、耗时长</tspan></text>
+  <text class="st1" transform="translate(1258.1 303)"><tspan x="0" y="0">精度高、耗时长</tspan></text>
+  <polygon class="st26" points="330 230 345 218 345 242 330 230"/>
+  <polygon class="st26" points="660 230 675 218 675 242 660 230"/>
+  <polygon class="st26" points="990 230 1005 218 1005 242 990 230"/>
+  <polygon class="st26" points="1320 230 1335 218 1335 242 1320 230"/>
+  <rect class="st32" x="73.6" y="322.7" width="310" height="220" rx="8" ry="8"/>
+  <path class="st35" d="M178.6,362.7h100v120h-100v-120ZM193.6,382.7h70M193.6,412.7h70M193.6,442.7h40"/>
+  <text class="st11" transform="translate(153.9 512.7)"><tspan x="0" y="0">PyMuPDF</tspan></text>
+  <text class="st17" transform="translate(153.9 512.7)"><tspan x="0" y="0">PyMuPDF</tspan></text>
+  <rect class="st32" x="403.6" y="322.7" width="310" height="220" rx="8" ry="8"/>
+  <circle class="st35" cx="558.6" cy="422.7" r="42"/>
+  <line class="st35" x1="558.6" y1="422.7" x2="583.6" y2="397.7"/>
+  <line class="st35" x1="558.6" y1="422.7" x2="558.6" y2="387.7"/>
+  <text class="st9" transform="translate(468.6 502.7)"><tspan x="0" y="0">快速提取其余</tspan></text>
+  <text class="st14" transform="translate(468.6 502.7)"><tspan x="0" y="0">快速提取其余</tspan></text>
+  <text class="st9" transform="translate(576.6 502.7)"><tspan x="0" y="0">全部页面</tspan></text>
+  <text class="st14" transform="translate(576.6 502.7)"><tspan x="0" y="0">全部页面</tspan></text>
+  <rect class="st32" x="733.6" y="322.7" width="310" height="220" rx="8" ry="8"/>
+  <path class="st35" d="M838.6,362.7h100v120h-100v-120Z"/>
+  <text class="st22" transform="translate(852.6 432.7)"><tspan x="0" y="0">PDF</tspan></text>
+  <text class="st15" transform="translate(852.6 432.7)"><tspan x="0" y="0">PDF</tspan></text>
+  <text class="st5" transform="translate(824.8 512.7)"><tspan x="0" y="0">PyMuPDF</tspan></text>
+  <text class="st23" transform="translate(824.8 512.7)"><tspan x="0" y="0">PyMuPDF</tspan></text>
+  <rect class="st32" x="1063.6" y="322.7" width="310" height="220" rx="8" ry="8"/>
+  <path class="st35" d="M1163.6,362.7h100v120h-100v-120Z"/>
+  <text class="st22" transform="translate(1184.6 432.7)"><tspan x="0" y="0">TXT</tspan></text>
+  <text class="st15" transform="translate(1184.6 432.7)"><tspan x="0" y="0">TXT</tspan></text>
+  <text class="st9" transform="translate(1191.6 512.7)"><tspan x="0" y="0">纯文本</tspan></text>
+  <text class="st14" transform="translate(1191.6 512.7)"><tspan x="0" y="0">纯文本</tspan></text>
+  <rect class="st32" x="1705" y="287.7" width="310" height="220" rx="8" ry="8"/>
+  <path class="st35" d="M1548.6,372.7l30,70-30,20-30-20,30-70ZM1548.6,362.7v10M1523.6,422.7l-20,10M1573.6,422.7l20,10"/>
+  <text class="st9" transform="translate(1485.6 512.7)"><tspan x="0" y="0">速度快、成本低</tspan></text>
+  <text class="st14" transform="translate(1485.6 512.7)"><tspan x="0" y="0">速度快、成本低</tspan></text>
+  <polygon class="st42" points="330 470 345 458 345 482 330 470"/>
+  <polygon class="st42" points="660 470 675 458 675 482 660 470"/>
+  <polygon class="st42" points="990 470 1005 458 1005 482 990 470"/>
+  <polygon class="st42" points="1320 470 1335 458 1335 482 1320 470"/>
+  <rect class="st31" x="20" y="600" width="310" height="220" rx="8" ry="8"/>
+  <path class="st37" d="M130,560l50,30,50-30v70l-50,40-50-40v-70Z"/>
+  <path class="st37" d="M145,660l30,30,60-60"/>
+  <text class="st6" transform="translate(107.5 790)"><tspan x="0" y="0">视觉兜底队列</tspan></text>
+  <text class="st8" transform="translate(107.5 790)"><tspan x="0" y="0">视觉兜底队列</tspan></text>
+  <rect class="st31" x="350" y="600" width="310" height="220" rx="8" ry="8"/>
+  <path class="st37" d="M440,640h130v100h-130v-100ZM440,640h-15v-15M570,640h15v-15M570,740h15v15M440,740h-15v15M460,670h90M460,700h90"/>
+  <text class="st9" transform="translate(424 780)"><tspan x="0" y="0">扫描页且未入</tspan></text>
+  <text class="st4" transform="translate(424 780)"><tspan x="0" y="0">扫描页且未入</tspan></text>
+  <text class="st9" transform="translate(532 780)"><tspan x="0" y="0">精解析</tspan></text>
+  <text class="st4" transform="translate(532 780)"><tspan x="0" y="0">精解析</tspan></text>
+  <rect class="st31" x="680" y="600" width="310" height="220" rx="8" ry="8"/>
+  <circle class="st37" cx="835" cy="670" r="45"/>
+  <circle class="st30" cx="810" cy="650" r="8"/>
+  <circle class="st30" cx="860" cy="650" r="8"/>
+  <circle class="st30" cx="835" cy="700" r="8"/>
+  <path class="st36" d="M800,680c23.3,16.7,46.7,16.7,70,0"/>
+  <text class="st18" transform="translate(758.1 790)"><tspan x="0" y="0">视觉大模型</tspan></text>
+  <text class="st20" transform="translate(758.1 790)"><tspan x="0" y="0">视觉大模型</tspan></text>
+  <text class="st19" transform="translate(855.6 790)"><tspan class="st39" x="0" y="0">(</tspan><tspan class="st28" x="8.7" y="0">备用</tspan><tspan class="st39" x="60.7" y="0">)</tspan></text>
+  <text class="st3" transform="translate(855.6 790)"><tspan class="st39" x="0" y="0">(</tspan><tspan class="st28" x="8.7" y="0">备用</tspan><tspan class="st39" x="60.7" y="0">)</tspan></text>
+  <rect class="st31" x="1010" y="600" width="310" height="220" rx="8" ry="8"/>
+  <path class="st37" d="M1110,640h100v120h-100v-120Z"/>
+  <text class="st24" transform="translate(1153.9 700)"><tspan x="0" y="0">?</tspan></text>
+  <text class="st25" transform="translate(1153.9 700)"><tspan x="0" y="0">?</tspan></text>
+  <text class="st9" transform="translate(1147 790)"><tspan x="0" y="0">待定</tspan></text>
+  <text class="st4" transform="translate(1147 790)"><tspan x="0" y="0">待定</tspan></text>
+  <rect class="st31" x="1712.6" y="-77" width="310" height="220" rx="8" ry="8"/>
+  <path class="st37" d="M1420,580l50,30,50-30v70l-50,40-50-40v-70Z"/>
+  <path class="st37" d="M1435,700l30,30,60-60"/>
+  <text class="st9" transform="translate(1441 790)"><tspan x="0" y="0">防止信息丢失</tspan></text>
+  <text class="st4" transform="translate(1441 790)"><tspan x="0" y="0">防止信息丢失</tspan></text>
+  <polygon class="st40" points="330 710 345 698 345 722 330 710"/>
+  <polygon class="st40" points="660 710 675 698 675 722 660 710"/>
+  <polygon class="st40" points="990 710 1005 698 1005 722 990 710"/>
+  <polygon class="st40" points="1320 710 1335 698 1335 722 1320 710"/>
+</svg>

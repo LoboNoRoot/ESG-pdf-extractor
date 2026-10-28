@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <defs>
+    <style>
+      .bg{fill:#f5f5f7}.panel{fill:#fff;stroke:#d2d2d7;stroke-width:1.4}.soft{fill:#fafafa;stroke:#d2d2d7;stroke-width:1.2}.blue{fill:#eaf3ff;stroke:#b7d7ff;stroke-width:1.2}
+      .text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif;fill:#1d1d1f}.title{font-size:34px;font-weight:700}.sub{font-size:20px;fill:#6e6e73}.node{font-size:22px;font-weight:650}.small{font-size:16px;fill:#6e6e73}
+      .arrow{stroke:#86868b;stroke-width:2.2;fill:none;marker-end:url(#arrow)}.accent{stroke:#0071e3;stroke-width:2.6;fill:none;marker-end:url(#arrowBlue)}.label{font-size:15px;fill:#6e6e73}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#86868b"/></marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#0071e3"/></marker>
+  </defs>
+  <rect class="bg" width="1400" height="800"/>
+  <text class="text title" x="70" y="74">服务器部署拓扑</text>
+  <text class="text sub" x="70" y="112">Docker Compose 部署：API 容器、PostgreSQL 容器与宿主机持久化目录</text>
+
+  <rect class="panel" x="70" y="180" width="220" height="120" rx="24"/>
+  <text class="text node" x="180" y="232" text-anchor="middle">用户浏览器</text>
+  <text class="text small" x="180" y="262" text-anchor="middle">访问 Web 系统</text>
+
+  <path class="accent" d="M290 240 H410"/>
+  <text class="text label" x="350" y="225" text-anchor="middle">HTTP :8000</text>
+
+  <rect class="panel" x="410" y="145" width="850" height="560" rx="30"/>
+  <text class="text node" x="835" y="195" text-anchor="middle">服务器 Docker Compose</text>
+
+  <rect class="blue" x="470" y="245" width="360" height="330" rx="24"/>
+  <text class="text node" x="650" y="292" text-anchor="middle">api 容器</text>
+  <text class="text small" x="650" y="322" text-anchor="middle">FastAPI + Uvicorn</text>
+  <rect class="soft" x="505" y="350" width="290" height="52" rx="14"/>
+  <text class="text small" x="650" y="382" text-anchor="middle">React 静态前端</text>
+  <rect class="soft" x="505" y="420" width="290" height="52" rx="14"/>
+  <text class="text small" x="650" y="452" text-anchor="middle">MinerU 3.2.3 + PyTorch CPU</text>
+  <rect class="soft" x="505" y="490" width="290" height="52" rx="14"/>
+  <text class="text small" x="650" y="522" text-anchor="middle">PDF 处理 / RAG / LLM 调用</text>
+
+  <rect class="panel" x="900" y="275" width="290" height="230" rx="24"/>
+  <text class="text node" x="1045" y="326" text-anchor="middle">postgres 容器</text>
+  <text class="text small" x="1045" y="356" text-anchor="middle">PostgreSQL 16</text>
+  <rect class="soft" x="945" y="390" width="200" height="52" rx="14"/>
+  <text class="text small" x="1045" y="422" text-anchor="middle">reports / jobs / results</text>
+
+  <path class="arrow" d="M830 405 H900"/>
+  <text class="text label" x="865" y="390" text-anchor="middle">DATABASE_URL</text>
+
+  <rect class="soft" x="470" y="620" width="230" height="50" rx="14"/>
+  <text class="text small" x="585" y="651" text-anchor="middle">./data → /app/data</text>
+  <rect class="soft" x="720" y="620" width="240" height="50" rx="14"/>
+  <text class="text small" x="840" y="651" text-anchor="middle">./output → /app/output</text>
+  <rect class="soft" x="980" y="620" width="230" height="50" rx="14"/>
+  <text class="text small" x="1095" y="651" text-anchor="middle">postgres_data volume</text>
+
+  <path class="arrow" d="M585 620 V575"/>
+  <path class="arrow" d="M840 620 V575"/>
+  <path class="arrow" d="M1095 620 V505"/>
+</svg>

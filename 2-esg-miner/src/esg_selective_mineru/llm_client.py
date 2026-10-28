@@ -1,0 +1,92 @@
+﻿from __future__ import annotations
+
+import json
+from typing import Any, Dict, List
+
+from openai import OpenAI
+
+from .config import Settings
+
+
+class LLMClient:
+    def __init__(self, settings: Settings):
+        if not settings.dashscope_api_key:
+            raise RuntimeError("缺少 DASHSCOPE_API_KEY，请在新项目 .env 中配置，或从当前 shell 环境注入。")
+        self.settings = settings
+        self.client = OpenAI(api_key=settings.dashscope_api_key, base_url=settings.openai_base_url)
+
+    def extract_fields(self, fields: List[Dict[str, Any]], contexts: Dict[str, List[Dict[str, Any]]], *, target_year: str = "") -> List[Dict[str, Any]]:
+        prompt = _build_prompt(
+            fields,
+            contexts,
+            target_year=target_year,
+            context_chars=self.settings.llm_context_chars,
+        )
+        completion = self.client.chat.completions.create(
+            model=self.settings.text_model,
+            messages=[
+                {"role": "system", "content": "你是严谨的 A 股 ESG 报告结构化抽取助手。只基于给定证据抽取，不要编造。"},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0,
+            response_format={"type": "json_object"},
+        )
+        content = completion.choices[0].message.content or "{}"
+        data = json.loads(content)
+        results = data.get("results", data if isinstance(data, list) else [])
+        if not isinstance(results, list):
+            raise RuntimeError("模型返回不是 results 数组")
+        return results
+
+
+def _compact_field(field: Dict[str, Any]) -> Dict[str, Any]:
+    return {
+        "field_key": field.get("field_key"),
+        "name_cn": field.get("name_cn"),
+        "category": field.get("category"),
+        "indicator_type": field.get("indicator_type"),
+        "value_type": field.get("value_type"),
+        "expected_units": field.get("expected_units", []),
+        "aliases": field.get("aliases", [])[:6],
+        "domain_knowledge": field.get("domain_knowledge", ""),
+    }
+
+
+def _build_prompt(
+    fields: List[Dict[str, Any]],
+    contexts: Dict[str, List[Dict[str, Any]]],
+    *,
+    target_year: str = "",
+    context_chars: int = 1800,
+) -> str:
+    compact_fields = [_compact_field(field) for field in fields]
+    context_chars = max(800, min(int(context_chars or 1800), 3000))
+    compact_contexts: Dict[str, List[Dict[str, Any]]] = {}
+    for field in fields:
+        key = field["field_key"]
+        compact_contexts[key] = [
+            {
+                "chunk_id": item.get("chunk_id"),
+                "source": item.get("source"),
+                "page": item.get("page"),
+                "score": item.get("score"),
+                "text": (item.get("text") or "")[:context_chars],
+            }
+            for item in contexts.get(key, [])
+        ]
+    return (
+        "请从给定 ESG 报告证据中抽取这些字段。\n"
+        "要求：\n"
+        "1. 每个字段必须返回一条结果。\n"
+        "2. matched=false 表示未披露或证据不足。\n"
+        f"3. 必须优先抽取报告目标年份 {target_year or '报告披露年份'} 对应的数据；定量字段优先抽取 value、unit、year；定性字段给出 summary。\n"
+        "4. 如果证据是多年份横向表格，例如表头为 2020、2021、2022，指标行有多个数值，必须按目标年份所在列选择数值，不能取相邻年份或中间值。\n"
+        "5. value_type=structure 的字段是分布结构，不要返回单一 value；应在 summary 中写完整分布，如男/女、各年龄段、各学历层级，并保留 evidence。\n"
+        "6. 如果无法确认某个数值对应目标年份，应返回 matched=false 或降低 confidence，并在 reason 中说明年份无法对齐。\n"
+        "7. evidence 必须是证据中的短句或表格行，定量字段优先同时包含年份表头、指标名、单位和值；结构型字段可保留完整分布行，不超过 240 字。\n"
+        "8. confidence 取 0-1。\n"
+        "9. 只输出 JSON：{\"results\":[...]}。\n\n"
+        "结果字段格式：field_key, matched, value, unit, year, summary, evidence, source_chunk_id, source_page, confidence, reason。\n\n"
+        f"字段定义：\n{json.dumps(compact_fields, ensure_ascii=False)}\n\n"
+        f"证据：\n{json.dumps(compact_contexts, ensure_ascii=False)}"
+    )

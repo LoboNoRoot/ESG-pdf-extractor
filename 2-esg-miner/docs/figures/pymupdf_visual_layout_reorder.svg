@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <defs>
+    <style>
+      .bg{fill:#f5f5f7}.card{fill:#fff;stroke:#d2d2d7;stroke-width:1.2}.soft{fill:#fafafa;stroke:#d2d2d7;stroke-width:1}.blue{fill:#eaf3ff;stroke:#8fc5ff;stroke-width:1.2}
+      .text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif;fill:#1d1d1f}.title{font-size:34px;font-weight:700}.sub{font-size:20px;fill:#6e6e73}.node{font-size:21px;font-weight:650}.small{font-size:16px;fill:#6e6e73}.mono{font-family:"SFMono-Regular",Consolas,monospace;font-size:15px;fill:#1d1d1f}
+      .arrow{stroke:#86868b;stroke-width:2.2;fill:none;marker-end:url(#arrow)}.accent{stroke:#0071e3;stroke-width:2.6;fill:none;marker-end:url(#arrowBlue)}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#86868b"/></marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#0071e3"/></marker>
+  </defs>
+  <rect class="bg" width="1400" height="760"/>
+  <text class="text title" x="70" y="74">PyMuPDF 视觉布局文本重排</text>
+  <text class="text sub" x="70" y="112">根据 words 坐标按 y 行聚合、按 x 列排序，尽量还原表格阅读顺序</text>
+
+  <rect class="card" x="70" y="170" width="380" height="470" rx="24"/>
+  <text class="text node" x="260" y="218" text-anchor="middle">PDF 表格页面</text>
+  <g transform="translate(115 270)">
+    <rect class="soft" x="0" y="0" width="290" height="46" rx="8"/>
+    <text class="text small" x="35" y="29">指标</text><text class="text small" x="120" y="29">2020</text><text class="text small" x="190" y="29">2021</text><text class="text small" x="255" y="29">2022</text>
+    <rect class="blue" x="0" y="58" width="290" height="46" rx="8"/>
+    <text class="text small" x="20" y="87">培训总时长</text><text class="text small" x="115" y="87">35000</text><text class="text small" x="185" y="87">36500</text><text class="text small" x="250" y="87">38700</text>
+    <rect class="soft" x="0" y="116" width="290" height="46" rx="8"/>
+    <text class="text small" x="20" y="145">员工人数</text><text class="text small" x="120" y="145">7981</text><text class="text small" x="190" y="145">8049</text><text class="text small" x="255" y="145">8276</text>
+  </g>
+
+  <path class="arrow" d="M450 405 H545"/>
+  <rect class="card" x="545" y="210" width="290" height="390" rx="24"/>
+  <text class="text node" x="690" y="258" text-anchor="middle">page.get_text("words")</text>
+  <text class="text small" x="690" y="288" text-anchor="middle">每个词包含坐标</text>
+  <g transform="translate(585 335)">
+    <rect class="soft" x="0" y="0" width="210" height="34" rx="8"/><text class="mono" x="14" y="23">(10,10) 指标</text>
+    <rect class="soft" x="0" y="46" width="210" height="34" rx="8"/><text class="mono" x="14" y="69">(200,10) 2020</text>
+    <rect class="soft" x="0" y="92" width="210" height="34" rx="8"/><text class="mono" x="14" y="115">(10,30) 培训总时长</text>
+    <rect class="soft" x="0" y="138" width="210" height="34" rx="8"/><text class="mono" x="14" y="161">(400,30) 38700</text>
+  </g>
+
+  <path class="accent" d="M835 405 H930"/>
+  <rect class="card" x="930" y="170" width="400" height="470" rx="24"/>
+  <text class="text node" x="1130" y="218" text-anchor="middle">重排后的 RAG 文本</text>
+  <text class="text small" x="1130" y="248" text-anchor="middle">按视觉行列恢复表格结构</text>
+  <rect class="soft" x="975" y="300" width="310" height="220" rx="16"/>
+  <text class="mono" x="1005" y="340">指标 2020 2021 2022</text>
+  <text class="mono" x="1005" y="380">培训总时长 35000 36500 38700</text>
+  <text class="mono" x="1005" y="420">员工人数 7981 8049 8276</text>
+  <text class="text small" x="1130" y="570" text-anchor="middle">便于目标年份对齐和证据召回</text>
+</svg>
